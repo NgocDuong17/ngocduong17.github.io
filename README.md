@@ -12,7 +12,7 @@ Research Analyst | KOSEC - Kodari Securities
 ## Skillset
 Python: Immediate level
 - Proficient in Python libs such as numpy, chart,
-- Can scratch data from websites, clean data,..
+- Can scrape data from websites, clean data,..
 
 ## Projects
 ### EPA Incentive Program Analysis | Group Project | 2024
@@ -22,4 +22,32 @@ Python: Immediate level
 - Analyzed datasets to identify the top-performing officers by quarter and evaluated performance trends across office branches.
 - Predicted compliance trends for the upcoming year using regression model, with the help of Excel and Python
 - Developed tailored incentive program recommendations to enhance performance and motivate employees effectively.
+- 
+### Online Fire Management System | Group Project | 2024
+- Designed an online fire management system for a university and proposed an implementation strategy, focusing on enhancing fire safety and response efficiency.
+- Utilized Visio and Bubble to develop comprehensive UML diagrams (use case, activity, domain class, layer class, sequence) and intuitive user interfaces.
+- Successfully led a team, managing workflows, allocating resources, and ensuring timely project completion using MS Teams for collaboration and task management.
+
+### Smart Farm Project | Group Project | 2024
+- Developed a Java-based application to efficiently manage multiple farms, integrating up to four environmental sensors per farm.
+- Implemented core functionalities, including adding/removing farms and sensors, and querying lists of farms and sensors.
+- Applied programming concepts such as loops, arrays, classes and methods, exception handling, and file streams to ensure robust and scalable performance.
+
+### Database Design of SCS Resource Management | Group Project | 2024
+- Leveraged Microsoft SQL Server to conduct requirement analysis, and design conceptual, logical, and physical databases for a system managing resource allocation for staff and students.
+- Developed and executed SQL scripts to create the database, populate data, and extract critical information efficiently.
+
+### Educational Training Web Application | Group Project | 2024
+- Designed user interfaces for a role-based website using Figma, ensuring a seamless and intuitive user experience.
+- Developed a website with distinct user and admin functionalities: users could view courses, the different prices updates, track learning paths, progress, achievements, and take quizzes, while admins managed content access and user permissions.
+- Created a responsive visitor interface, including pages like Home, Pricing, Contact Us, Payment, Features, and Footer, with smooth navigation and page redirection.
+- Led the CSS development for the entire website, ensuring consistency in design and a polished UI/UX experience.
+
+## ACHIEVEMENTS
+- Data Analyst Association | DataCamp
+- Gold Badge in SQL | HackerRank
+- Excel Fundamental for Data Analysis | Coursera
+- Customer Reports in Google Analytics | Coursera
+- Application of Data Analysis in Business with R Programming | Coursera
+- Azure Synapse SQL pool - Intermediate Polybase | Coursera
 

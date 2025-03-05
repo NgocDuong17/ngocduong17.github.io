@@ -22,7 +22,7 @@ Python: Immediate level
 - Analyzed datasets to identify the top-performing officers by quarter and evaluated performance trends across office branches.
 - Predicted compliance trends for the upcoming year using regression model, with the help of Excel and Python
 - Developed tailored incentive program recommendations to enhance performance and motivate employees effectively.
-- 
+  
 ### Online Fire Management System | Group Project | 2024
 - Designed an online fire management system for a university and proposed an implementation strategy, focusing on enhancing fire safety and response efficiency.
 - Utilized Visio and Bubble to develop comprehensive UML diagrams (use case, activity, domain class, layer class, sequence) and intuitive user interfaces.
@@ -44,11 +44,11 @@ Python: Immediate level
 - Led the CSS development for the entire website, ensuring consistency in design and a polished UI/UX experience.
 
 ## ACHIEVEMENTS
-- [Azure Synapse SQL pool - Intermediate Polybase | Coursera] (https://www.coursera.org/account/accomplishments/certificate/76B3PC2ETKUB)
-- [Data Analyst Association | DataCamp] (https://www.datacamp.com/certificate/DAA0013458642611) 
+- [Azure Synapse SQL pool - Intermediate Polybase | Coursera](https://www.coursera.org/account/accomplishments/certificate/76B3PC2ETKUB)
+- [Data Analyst Association | DataCamp](https://www.datacamp.com/certificate/DAA0013458642611) 
 - Gold Badge in SQL | HackerRank
-- [Excel Fundamental for Data Analysis | Coursera] (https://www.coursera.org/account/accomplishments/certificate/3FXVQNQWV9WZ)
-- [Customer Reports in Google Analytics | Coursera] (https://www.coursera.org/account/accomplishments/certificate/HFXQT6LKKFNE)
-- [Application of Data Analysis in Business with R Programming | Coursera] (https://www.coursera.org/account/accomplishments/certificate/4QHB3LB8WCT6)
+- [Excel Fundamental for Data Analysis | Coursera](https://www.coursera.org/account/accomplishments/certificate/3FXVQNQWV9WZ)
+- [Customer Reports in Google Analytics | Coursera](https://www.coursera.org/account/accomplishments/certificate/HFXQT6LKKFNE)
+- [Application of Data Analysis in Business with R Programming | Coursera](https://www.coursera.org/account/accomplishments/certificate/4QHB3LB8WCT6)
 
 

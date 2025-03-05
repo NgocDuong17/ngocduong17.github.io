@@ -1,4 +1,4 @@
-# Hi, I'm Adoria!
+# <span style="color:#007acc;">Hi, I'm Adoria!</span>
 I hold a Bachelor's degree in Data Science and am currently pursuing a Master's degree in Information Technology with a focus on Business Analytics.
 I have hands-on experience working on data-driven projects using Python and Java, and I have also gained skills in front-end web development with HTML, CSS, and JavaScript.
 

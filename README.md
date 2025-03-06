@@ -44,7 +44,6 @@ Python: Immediate level
 - Led the CSS development for the entire website, ensuring consistency in design and a polished UI/UX experience.
 
 ## ACHIEVEMENTS
-<h2>ACHIEVEMENTS</h2>
 <ul>
   <li>
     <a href="https://www.coursera.org/account/accomplishments/certificate/76B3PC2ETKUB" target="_blank">

@@ -51,11 +51,27 @@ Python: Immediate level
       Azure Synapse SQL pool - Intermediate Polybase | Coursera
     </a>
   </li>
+  <li>
+    <a href="https://www.datacamp.com/certificate/DAA0013458642611" target="_blank">
+      Data Analyst Association | DataCamp
+    </a>
+  </li>
+  <li>
+    Gold Badge in SQL | HackerRank
+  </li>
+  <li>
+    <a href="https://www.coursera.org/account/accomplishments/certificate/3FXVQNQWV9WZ" target="_blank">
+      Excel Fundamental for Data Analysis | Coursera
+    </a>
+  </li>
+  <li>
+    <a href="https://www.coursera.org/account/accomplishments/certificate/HFXQT6LKKFNE" target="_blank">
+      Customer Reports in Google Analytics | Coursera
+    </a>
+  </li>
+  <li>
+    <a href="https://www.coursera.org/account/accomplishments/certificate/4QHB3LB8WCT6" target="_blank">
+      Application of Data Analysis in Business with R Programming | Coursera
+    </a>
+  </li>
 </ul>
-- [Data Analyst Association | DataCamp](https://www.datacamp.com/certificate/DAA0013458642611) 
-- Gold Badge in SQL | HackerRank
-- [Excel Fundamental for Data Analysis | Coursera](https://www.coursera.org/account/accomplishments/certificate/3FXVQNQWV9WZ)
-- [Customer Reports in Google Analytics | Coursera](https://www.coursera.org/account/accomplishments/certificate/HFXQT6LKKFNE)
-- [Application of Data Analysis in Business with R Programming | Coursera](https://www.coursera.org/account/accomplishments/certificate/4QHB3LB8WCT6)
-
-

@@ -44,7 +44,14 @@ Python: Immediate level
 - Led the CSS development for the entire website, ensuring consistency in design and a polished UI/UX experience.
 
 ## ACHIEVEMENTS
-- [Azure Synapse SQL pool - Intermediate Polybase | Coursera](https://www.coursera.org/account/accomplishments/certificate/76B3PC2ETKUB)
+<h2>ACHIEVEMENTS</h2>
+<ul>
+  <li>
+    <a href="https://www.coursera.org/account/accomplishments/certificate/76B3PC2ETKUB" target="_blank">
+      Azure Synapse SQL pool - Intermediate Polybase | Coursera
+    </a>
+  </li>
+</ul>
 - [Data Analyst Association | DataCamp](https://www.datacamp.com/certificate/DAA0013458642611) 
 - Gold Badge in SQL | HackerRank
 - [Excel Fundamental for Data Analysis | Coursera](https://www.coursera.org/account/accomplishments/certificate/3FXVQNQWV9WZ)

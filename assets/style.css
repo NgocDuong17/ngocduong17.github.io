@@ -1,0 +1,70 @@
+/* === Base Typography === */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.7;
+  color: #2b2b2b;
+  background-color: #fefefe;
+  padding: 0 2rem;
+}
+
+/* === Header === */
+h1, h2, h3 {
+  color: #4CAF50;
+  margin-top: 2rem;
+}
+
+h1 {
+  font-size: 2.5em;
+  border-bottom: 3px solid #A8D38D;
+  padding-bottom: 0.3rem;
+}
+
+h2 {
+  font-size: 1.8em;
+  margin-top: 2rem;
+}
+
+h3 {
+  font-size: 1.4em;
+  color: #555;
+}
+
+/* === Links and Icons === */
+a {
+  color: #007acc;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* === Layout and Sections === */
+ul {
+  padding-left: 1.2rem;
+}
+
+li {
+  margin-bottom: 0.6rem;
+}
+
+section {
+  margin-bottom: 2.5rem;
+}
+
+/* === Highlighted Intro Name === */
+.highlight-name {
+  color: #A8D38D;
+  font-weight: bold;
+  font-size: 2em;
+}
+
+/* === Custom Badges / Labels === */
+.badge {
+  display: inline-block;
+  background-color: #f3f3f3;
+  border-left: 4px solid #4CAF50;
+  padding: 0.3rem 0.8rem;
+  margin-bottom: 1rem;
+  font-weight: 500;
+  color: #333;
+}

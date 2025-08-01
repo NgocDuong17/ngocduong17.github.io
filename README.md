@@ -239,9 +239,11 @@ Bachelor of Data Science
 
 <details class="achievement">
       <summary>
+        <blockquote>
         <a href="https://www.coursera.org/account/accomplishments/certificate/HFXQT6LKKFNE" target="_blank">
       Customer Reports in Google Analytics | Coursera </a>
       </summary>
+        </blockquote>
   Designed and implemented three custom Google Analytics reports using various methods to meet business objectives
 </details>
 

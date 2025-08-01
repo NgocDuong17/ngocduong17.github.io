@@ -100,5 +100,23 @@ section {
   transition: background-color 0.3s ease;
 }
 .skill-btn:hover {
-  background-color: #E8C7BC; /* Slightly darker hover color */
+  background-color: #E8C7BC; 
+}
+
+.proj-skill-btn {
+  display: inline-block;
+  padding: 6px 14px;
+  margin: 4px 8px 4px 0;
+  background-color: #98BF8E;  
+  color: white;
+  text-decoration: none;
+  border: none;
+  border-radius: 8px;
+  font-size: 0.75em;
+  font-weight: 500;
+  cursor: default;
+  transition: background-color 0.3s ease;
+}
+.proj-skill-btn:hover {
+  background-color: #B4D9AB; 
 }

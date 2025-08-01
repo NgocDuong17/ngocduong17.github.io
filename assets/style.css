@@ -133,7 +133,7 @@ section {
   background-color: #FFFFFF;  
   color: #73966B;
   text-decoration: none;
-  border: 2px solid #B4D9AB;
+  border: 2px solid #5D7857;
   border-radius: 10px;
   font-size: 0.85em;
   font-weight: 600;
@@ -142,7 +142,7 @@ section {
 }
 .proj-skill-btn:hover {
   background-color: #B4D9AB; 
-  color: white;
+  color: #FFFFFF;
 }
 
 .project-wrap {

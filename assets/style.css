@@ -144,9 +144,8 @@ section {
 }
 
 .project-wrap {
-  display: block;
   background: #f8f9fa;
-  border-left: 6px solid #98BF8E;
+  border-left: 6px solid #C9A595;
   padding: 16px 20px;
   margin: 16px 0;
   border-radius: 10px;
@@ -155,12 +154,32 @@ section {
   box-shadow: 0 2px 6px rgba(0,0,0,0.05);
 }
 
-.project-title{
-  font-size: 1.4em;
-  color: #555;
-  font-weight: 600;
+.collapsible {
+  background-color: #98BF8E;
+  color: white;
+  cursor: pointer;
+  padding: 10px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  font-size: 1.2em;
+  border-radius: 10px;
   margin-bottom: 10px;
+  transition: background-color 0.3s ease;
 }
+
+.collapsible:hover {
+  background-color: #B4D9AB;
+}
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: white;
+  border-radius: 10px;
+}
+
 
 .achievement{
   margin-bottom: 5px;

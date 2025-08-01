@@ -20,7 +20,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 
 
 ## 🚀 PROJECTS
-<span class="project-wrap">
+<div class="project-wrap">
 <span class="project-title">Enterprise BI Pipeline: ETL with SSIS, OLAP Cube with SSAS, and Live Power BI Dashboard | 2025 | <a href="https://github.com/NgocDuong17/SQL-BI-Dashboard-Project/blob/master/README.md" target="_blank"> Link </a></span>
   <ul>
     <li>ETL with SSIS: Designed and implemented an ETL pipeline in Visual Studio to extract, transform, and load structured data into a SQL Server data warehouse.</li>
@@ -28,14 +28,14 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
     <li>Live Data Connection: Connected Power BI to the SSAS cube through Microsoft SQL Server Management Studio (SSMS) using a live connection for real-time insights.</li>
     <li>Power BI Dashboard: Developed a dynamic, interactive Power BI dashboard with drill-down capabilities and custom visualizations for business users.</li>
   </ul>
-  <span class="proj-skill-btn"> Power BI </span>
+<span class="proj-skill-btn"> Power BI </span>
 <span class="proj-skill-btn"> ETL Tools </span>
 <span class="proj-skill-btn"> SQL Server Analysis Services (SSAS) </span>
 <span class="proj-skill-btn"> Microsoft SQL Server </span>
 <span class="proj-skill-btn"> SQL Server Integration Services (SSIS) </span>
 <span class="proj-skill-btn"> Visual Studio </span>
 <span class="proj-skill-btn"> Data Warehousing </span>
-</span>
+</div>
 
 
 

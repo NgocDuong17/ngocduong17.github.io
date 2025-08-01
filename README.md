@@ -84,6 +84,15 @@ Collaboration, Problem Solving, Agile Communication, Report Writing
 <b>Skill: HTML · JavaScript · CSS · Figma · Asana </b>
 <br/><br/>
 
+## EDUCATION
+### University of Newcastle | 2023 - Current
+Master of Information Technology | Major: Business Analytics
+- Relevant Coursework: Data Wrangling & Visualisation · Database Management2 ·  Data Analytics for Business · Big Data · Business Intelligence for the Enterprise · Object Oriented Programming <br/>
+
+###  SPJain School of Global Management | 2020 - 2023
+Bachelor of Data Science
+- Relevant Coursework: Advanced Analytics · Statistical Data Analysis · Data Mining · Programming for Analytics
+
 ## ACHIEVEMENTS
 <ul>
   <li>

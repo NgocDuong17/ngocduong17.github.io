@@ -92,8 +92,9 @@ section {
 /* === Highlighted Intro Name === */
 .highlight-name {
   color: #BA6323;
-  font-weight: bold;
+  font-weight: 500;
   font-size: 2em;
+  
 }
 
 /* === Custom Badges / Labels === */
@@ -166,8 +167,9 @@ section {
 .project-title{
   font-size: 1.4em;
   color: #555;
-  font-weight: 600;
+  font-weight: 500;
   margin-bottom: 12px;
+  padding-bottom: 20px
 }
 
 .toggle-btn {

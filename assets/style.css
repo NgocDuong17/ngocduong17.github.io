@@ -85,17 +85,17 @@ section {
 .skill-btn {
   display: inline-block;
   padding: 6px 14px;
-  margin: 4px 4px 4px 0;
-  background-color: #94F6FF;  /* Periwinkle from your palette */
+  margin: 4px 8px 4px 0;
+  background-color: #E0BAAB;  /* Periwinkle from your palette */
   color: white;
   text-decoration: none;
   border: none;
-  border-radius: 4px;
+  border-radius: 8px;
   font-size: 0.95em;
   font-weight: 500;
   cursor: default;
   transition: background-color 0.3s ease;
 }
 .skill-btn:hover {
-  background-color: #57A4D9; /* Slightly darker hover color */
+  background-color: #E8C7BC; /* Slightly darker hover color */
 }

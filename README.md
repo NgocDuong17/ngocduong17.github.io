@@ -20,8 +20,11 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 
 ## Skillset
 
+** Cloud Platforms**
+Microsoft Azure (Certified), Microsoft Fabric (Certified)
+
 **Programming Languages**  
-Python (NumPy, Web Scraping), SQL, R, JavaScript, HTML/CSS
+Python (NumPy, Web Scraping), SQL, R, JavaScript, HTML/CSS, Java
 
 **Data Tools & BI Platforms**  
 Power BI (DAX, Power Query), Excel (Pivot Tables), SQL Server, SSIS, SSAS

@@ -16,13 +16,25 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 - Executed planograms and optimized product placement based on store analytics.
 - Supported promotional campaigns with setup, monitoring, and customer engagement tracking.
 - Maintained and updated stock records, ensuring data accuracy in inventory systems.
-<br/><br/>
+<hr style="border-top: 1px solid #ccc; margin: 40px 0;">
 
 ## Skillset
-Python: Immediate level
-- Proficient in Python libs such as numpy, chart,
-- Can scrape data from websites, clean data,..
-<br/><br/>
+
+**Programming Languages**  
+Python (NumPy, Web Scraping), SQL, R, JavaScript, HTML/CSS
+
+**Data Tools & BI Platforms**  
+Power BI (DAX, Power Query), Excel (Pivot Tables), SQL Server, SSIS, SSAS
+
+**Data Modeling & Analysis**  
+ETL, OLAP Cube, Star Schema, Data Warehousing, Data Visualization
+
+**Project & UI/UX Tools**  
+Figma, Microsoft Project, Visio, Jira, Asana
+
+**Soft Skills**  
+Collaboration, Problem Solving, Agile Communication, Report Writing
+<hr style="border-top: 1px solid #ccc; margin: 40px 0;">
 
 ## Projects
 ### Enterprise BI Pipeline: ETL with SSIS, OLAP Cube with SSAS, and Live Power BI Dashboard | 2025 | <a href="https://github.com/NgocDuong17/SQL-BI-Dashboard-Project/blob/master/README.md" target="_blank"> Link </a>
@@ -60,7 +72,7 @@ Python: Immediate level
 - Designed an online fire management system for a university and proposed an implementation strategy, focusing on enhancing fire safety and response efficiency.
 - Utilized Visio and Bubble to develop comprehensive UML diagrams (use case, activity, domain class, layer class, sequence) and intuitive user interfaces.
 - Successfully led a team, managing workflows, allocating resources, and ensuring timely project completion using MS Teams for collaboration and task management.
-- Documented findings and project progress (utilizing Microsoft Project), risks, and action items in regular status reports shared with course coordinators.<br/>
+- Documented findings and project progress (utilizing Microsoft Project), risks, and action items in regular status reports shared with course coordinators.</br>
 <b>Skill: UML Diagramming ·  Microsoft Project · Visio · Bubble · Jira</b>
 <br/>
 

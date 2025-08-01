@@ -25,19 +25,39 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 <span class="skill-btn"> Microsoft Fabric (Certified) </span>
 
 **Programming Languages**  
-Python (NumPy, Web Scraping), SQL, R, JavaScript, HTML/CSS, Java
+<span class="skill-btn"> Python (Numpy, Web Scraping, Pandas) </span>
+<span class="skill-btn"> SQL </span>
+<span class="skill-btn"> R </span>
+<span class="skill-btn"> JavaScripts </span>
+<span class="skill-btn"> HTML/CSS </span>
+<span class="skill-btn"> Java </span>
 
 **Data Tools & BI Platforms**  
-Power BI (DAX, Power Query), Excel (Pivot Tables), SQL Server, SSIS, SSAS
+<span class="skill-btn"> PowerBI (DAX, Power Query) </span>
+<span class="skill-btn"> SQL Server </span>
+<span class="skill-btn"> SSIS </span>
+<span class="skill-btn"> SSAS </span>
 
 **Data Modeling & Analysis**  
-ETL, OLAP Cube, Star Schema, Data Warehousing, Data Visualization
+<span class="skill-btn"> ETL Pipeline </span>
+<span class="skill-btn"> OLAP Cube </span>
+<span class="skill-btn"> Star Schema </span>
+<span class="skill-btn"> Data Warehousing </span>
+<span class="skill-btn"> Data Visualization </span>
 
-**Project & UI/UX Tools**  
-Figma, Microsoft Project, Visio, Jira, Asana
+**Project & UI/UX Tools** 
+<span class="skill-btn"> Figma </span>
+<span class="skill-btn"> Visio </span>
+<span class="skill-btn"> Microsoft Project </span>
+<span class="skill-btn"> Asana </span>
+<span class="skill-btn"> Jira </span>
 
 **Soft Skills**  
-Collaboration, Problem Solving, Agile Communication, Report Writing
+<span class="skill-btn"> Collaboration </span>
+<span class="skill-btn"> Problem Solving </span>
+<span class="skill-btn"> Agile Communication </span>
+<span class="skill-btn"> Report Writing </span>
+<span class="skill-btn"> Teamwork </span>
 <hr style="border-top: 1px solid #D6D6D6; margin: 40px 0;">
 
 ## PROJECTS

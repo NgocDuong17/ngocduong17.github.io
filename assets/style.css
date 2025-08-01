@@ -130,17 +130,18 @@ section {
   padding: 6px 14px;
   margin: 4px 8px 4px 0;
   background-color: #FFFFFF;  
-  color: #B4D9AB;
+  color: #73966B;
   text-decoration: none;
   border: 2px solid #B4D9AB;
   border-radius: 10px;
-  font-size: 0.75em;
-  font-weight: 500;
+  font-size: 0.85em;
+  font-weight: 600;
   cursor: default;
   transition: background-color 0.3s ease;
 }
 .proj-skill-btn:hover {
   background-color: #B4D9AB; 
+  color: white;
 }
 
 .project-wrap {
@@ -195,3 +196,7 @@ section {
 .achievement a{
   margin-left: 5px;
 }
+
+.achieve-title{}
+
+.achieve-content{}

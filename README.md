@@ -21,7 +21,11 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 
 ## 🚀 PROJECTS
 <div class="project-wrap">
-<span class="project-title"><b>Enterprise BI Pipeline and Live Power BI Dashboard </b> | 2025 | <a href="https://github.com/NgocDuong17/SQL-BI-Dashboard-Project/blob/master/README.md" target="_blank"> Link </a></span>
+<span class="project-title">
+  <b>Enterprise BI Pipeline and Live Power BI Dashboard </b>  
+  <a href="https://github.com/NgocDuong17/SQL-BI-Dashboard-Project/blob/master/README.md" target="_blank"> Link </a>
+  <p> Academic Project | 2025</p>
+</span>
 <button class="toggle-btn" aria-expanded="false" aria-controls="project1-content" onclick="toggleExpand(this)">▼</button>
 <div id="project1-content" style="margin-top:10px;">
   <ul>

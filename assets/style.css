@@ -13,18 +13,20 @@ body {
   margin-top: 90px
 }
 
-
+header h1 {
+  display: none;
+}
 /* === Header === */
 h1, h2, h3 {
   margin-top: 2rem;
 }
 
-h1 {
+/*h1 {
   font-size: 2.5em;
   color:#BA6323;
   border-bottom: 3px solid #A8D38D;
   padding-bottom: 0.3rem;
-}
+}*/
 
 h2 {
   font-size: 1.8em;
@@ -61,7 +63,7 @@ section {
 
 /* === Highlighted Intro Name === */
 .highlight-name {
-  color: #A8D38D;
+  color: #BA6323;
   font-weight: bold;
   font-size: 2em;
 }

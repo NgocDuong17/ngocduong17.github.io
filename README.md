@@ -215,7 +215,7 @@ Bachelor of Data Science
 ## 🏆 ACHIEVEMENTS
 
 <details class="achievement">
-      <summary>
+      <summary class="achieve-title">
         <a href="https://learn.microsoft.com/api/credentials/share/en-us/ThiBaoNgocDuong-2776/535705988275A982?sharingId=4FC93E78C76DC4B8" target="_blank">
       Power BI Data Analyst Associate (2025) | Microsoft </a>
       </summary>
@@ -225,7 +225,7 @@ Bachelor of Data Science
 </details>
 
 <details class="achievement">
-      <summary>
+      <summary class="achieve-title">
         <a href="https://learn.microsoft.com/api/credentials/share/en-us/ThiBaoNgocDuong-2776/F7D7E910F1648308?sharingId=4FC93E78C76DC4B8" target="_blank">
       Microsoft Azure Fundamentals (2025) | Microsoft </a>
       </summary>
@@ -235,7 +235,7 @@ Bachelor of Data Science
 </details>
 
 <details class="achievement">
-      <summary>
+      <summary class="achieve-title">
         <a href="https://learn.microsoft.com/api/credentials/share/en-us/ThiBaoNgocDuong-2776/7221CCA12ABFF2D4?sharingId=4FC93E78C76DC4B8" target="_blank">
       Microsoft Certified: Fabric Analytics Engineer Associate (2025) | Microsoft
     </a>
@@ -246,7 +246,7 @@ Bachelor of Data Science
 </details>
 
 <details class="achievement">
-      <summary>
+      <summary class="achieve-title">
         <a href="https://www.hackerrank.com/certificates/iframe/3e815e933527" target="_blank">
       SQL (Advanced) Certificate (2025) | HackerRank
     </a>
@@ -257,7 +257,7 @@ Bachelor of Data Science
 </details>
 
 <details class="achievement">
-      <summary>
+      <summary class="achieve-title">
         <a href="https://www.coursera.org/account/accomplishments/certificate/4QHB3LB8WCT6" target="_blank">
       Application of Data Analysis in Business with R Programming | Coursera
     </a>
@@ -278,7 +278,7 @@ Bachelor of Data Science
 </details>
 
 <details class="achievement">
-      <summary>
+      <summary class="achieve-title">
         <a href="https://www.coursera.org/account/accomplishments/certificate/3FXVQNQWV9WZ" target="_blank">
       Excel Fundamental for Data Analysis (2021) | Coursera
     </a>

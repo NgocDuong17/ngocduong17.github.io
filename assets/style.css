@@ -115,7 +115,7 @@ section {
   color: white;
   text-decoration: none;
   border: none;
-  border-radius: 8px;
+  border-radius: 10px;
   font-size: 0.95em;
   font-weight: 500;
   cursor: default;
@@ -133,7 +133,7 @@ section {
   color: white;
   text-decoration: none;
   border: none;
-  border-radius: 8px;
+  border-radius: 10px;
   font-size: 0.75em;
   font-weight: 500;
   cursor: default;
@@ -141,4 +141,16 @@ section {
 }
 .proj-skill-btn:hover {
   background-color: #B4D9AB; 
+}
+
+.project-wrap {
+  display: block;
+  background: #f8f9fa;
+  border-left: 6px solid #4a90e2;
+  padding: 16px 20px;
+  margin: 16px 0;
+  border-radius: 10px;
+  color: #333;
+  line-height: 1.6;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
 }

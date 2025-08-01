@@ -23,7 +23,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 <div class="project-wrap">
 <span class="project-title">
   <b>Enterprise ETL Pipeline and Live PowerBI Dashboard</b>  
-  <a href="https://github.com/NgocDuong17/SQL-BI-Dashboard-Project/blob/master/README.md" target="_blank"> Link </a>
+  <a href="https://github.com/NgocDuong17/SQL-BI-Dashboard-Project/blob/master/README.md" target="_blank"> 🔗 </a>
   <p> Academic Project | 2025</p>
 </span>
 <button class="toggle-btn" aria-expanded="false" aria-controls="project1-content" onclick="toggleExpand(this)">▼</button>
@@ -48,7 +48,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 <div class="project-wrap">
 <span class="project-title">
   <b>Pedestrian Patterns on Major Sydney Street </b> 
-  <a href="https://github.com/NgocDuong17/Pedestrian-Patterns-on-Major-Sydney-Streets/blob/main/README.md" target="_blank"> Link </a>
+  <a href="https://github.com/NgocDuong17/Pedestrian-Patterns-on-Major-Sydney-Streets/blob/main/README.md" target="_blank"> 🔗 </a>
   <p> Personal Project | 2025</p>
 </span>
 <button class="toggle-btn" aria-expanded="false" aria-controls="project1-content" onclick="toggleExpand(this)">▼</button>
@@ -72,7 +72,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 <div class="project-wrap">
 <span class="project-title">
   <b>Plant Co. YTD vs PYTD Performance Analysis </b>
-  <a href="https://github.com/NgocDuong17/Plant-Co.-YTD-and-PYTD-Performance-Dashboards/blob/main/README.md" target="_blank"> Link </a>
+  <a href="https://github.com/NgocDuong17/Plant-Co.-YTD-and-PYTD-Performance-Dashboards/blob/main/README.md" target="_blank"> 🔗 </a>
   <p> Personal Project | 2025</p>
 </span>
 <button class="toggle-btn" aria-expanded="false" aria-controls="project1-content" onclick="toggleExpand(this)">▼</button>

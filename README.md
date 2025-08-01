@@ -2,16 +2,20 @@
 
 
 # <span style="color:#A8D38D;">Hi, I'm Adoria!</span>
-I hold a Bachelor's degree in Data Science and am currently pursuing a Master's degree in Information Technology with a focus on Business Analytics.
-I have hands-on experience working on data-driven projects using Python and Java, and I have also gained skills in front-end web development with HTML, CSS, and JavaScript.
+Detail-oriented Data Analyst/Business Analyst with expertise in data visualization, data analysis, and programming languages, including Python, SQL, and R. Earned multiple Microsoft certifications (Power BI, Azure, and Fabric), demonstrating a strong commitment to lifelong learning and staying current with emerging technologies. Adaptable in fast-paced environments, proficient in diverse technologies and languages for efficient analysis and modeling.
 <br/><br/>
 
 ## Experience
-Research Analyst | KOSEC - Kodari Securities 
-- Conduct research and analysis on market trends, sectors, and companies to support strategic investment decisions.
-- Prepare reports and presentations to deliver actionable insights for stakeholders.
-- Collaborate with a skilled team to maintain KOSEC’s reputation for excellence in wealth management and market research.
-- Participate in meetings to deepen expertise in equity markets and investment strategies. 
+### Research Analyst Internship | KOSEC - Kodari Securities | Jan - May 2025
+- Developed presentations to communicate market trends, supporting strategic decision-making for investment opportunities.
+- Summarized key market insights from financial news sources into daily, weekly, and monthly reports to provide stakeholders with actionable intelligence.
+- Collected and processed sector data at the beginning and end of each week, utilizing Excel to generate comparative visualizations and identify top and bottom-performing sectors.
+<br/>
+
+###  Pharmacy Assistant | Chemist Warehouse | Dec 2024 - Current
+- Executed planograms and optimized product placement based on store analytics.
+- Supported promotional campaigns with setup, monitoring, and customer engagement tracking.
+- Maintained and updated stock records, ensuring data accuracy in inventory systems.
 <br/><br/>
 
 ## Skillset
@@ -21,6 +25,14 @@ Python: Immediate level
 <br/><br/>
 
 ## Projects
+### Pedestrian Patterns on Major Sydney Street | 2025 | <a href="https://github.com/NgocDuong17/Pedestrian-Patterns-on-Major-Sydney-Streets/blob/main/README.md" target="_blank"> Link </a>
+- Analyzed Automatic Hourly Pedestrian Count data from the City of Sydney Data Hub to identify trends and support urban planning decisions.
+- Conducted extensive data cleaning and transformation, handling nulls, duplicates, and datetime inconsistencies, with staging layers for auditability.
+- Built ETL pipeline in SQL Server and modelled data using Star Schema
+- Developed a Power BI dashboard with dynamic KPIs and interactive drill-downs
+- Revealed peak traffic hours and seasonal surges; enabled data-driven decisions for staffing, transport, and marketing.
+<b>Skill: Power BI, SQL, Excel, Data Modelling, DAX</b>
+
 ### EPA Incentive Program Analysis | Group Project | 2024
 - Conducted a comprehensive data quality process to ensure the integrity and reliability of data for business decision-making.
 - Designed and implemented a Star Schema in Microsoft SQL to optimize data analysis and reporting efficiency.

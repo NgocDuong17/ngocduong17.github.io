@@ -3,7 +3,6 @@
 
 # <span style="color:#BF8062;">Hi, I'm Thi Bao Ngoc (Adoria) Duong!</span>
 Detail-oriented Data Analyst/Business Analyst with expertise in data visualization, data analysis, and programming languages, including Python, SQL, and R. Earned multiple Microsoft certifications (Power BI, Azure, and Fabric), demonstrating a strong commitment to lifelong learning and staying current with emerging technologies. Adaptable in fast-paced environments, proficient in diverse technologies and languages for efficient analysis and modeling.
-<br/><br/>
 <hr style="border-top: 1px solid #D6D6D6; margin: 40px 0;">
 
 ## EXPERIENCES
@@ -21,8 +20,9 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 
 ## SKILLSET
 
-**Cloud Platforms**  
-Microsoft Azure (Certified), Microsoft Fabric (Certified)
+**Cloud Platforms**
+<span class="skill-btn"> Microsoft Azure (Certified) </span>
+<span class="skill-btn"> Microsoft Fabric (Certified) </span>
 
 **Programming Languages**  
 Python (NumPy, Web Scraping), SQL, R, JavaScript, HTML/CSS, Java

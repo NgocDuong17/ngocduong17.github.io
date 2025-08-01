@@ -146,11 +146,19 @@ section {
 .project-wrap {
   display: block;
   background: #f8f9fa;
-  border-left: 6px solid #4a90e2;
+  border-left: 6px solid #C9A595;
   padding: 16px 20px;
   margin: 16px 0;
   border-radius: 10px;
   color: #333;
   line-height: 1.6;
   box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+.achievement{
+  margin-bottom: 5px;
+}
+
+.achievement a{
+  margin-left: 5px;
 }

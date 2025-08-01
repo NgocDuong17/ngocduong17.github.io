@@ -1,11 +1,11 @@
 <link rel="stylesheet" type="text/css" href="assets/style.css"/>
 
 
-# <span style="color:#BF8062;">Hi, I'm Thi Bao Ngoc (Adoria) Duong!</span>
+# <span style="color:#C9A595;">Hi, I'm Thi Bao Ngoc (Adoria) Duong!</span>
 Detail-oriented Data Analyst/Business Analyst with expertise in data visualization, data analysis, and programming languages, including Python, SQL, and R. Earned multiple Microsoft certifications (Power BI, Azure, and Fabric), demonstrating a strong commitment to lifelong learning and staying current with emerging technologies. Adaptable in fast-paced environments, proficient in diverse technologies and languages for efficient analysis and modeling.
 <hr style="border-top: 1px solid #D6D6D6; margin: 40px 0;">
 
-## EXPERIENCES
+## 🧾 EXPERIENCES
 ### Research Analyst Internship | KOSEC - Kodari Securities | Jan - May 2025
 - Developed presentations to communicate market trends, supporting strategic decision-making for investment opportunities.
 - Summarized key market insights from financial news sources into daily, weekly, and monthly reports to provide stakeholders with actionable intelligence.
@@ -18,7 +18,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 - Maintained and updated stock records, ensuring data accuracy in inventory systems.
 <hr style="border-top: 1px solid #D6D6D6; margin: 40px 0;">
 
-## SKILLSET
+## 🔧 SKILLSET
 
 **Cloud Platforms**
 <span class="skill-btn"> Microsoft Azure (Certified) </span>
@@ -60,7 +60,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 <span class="skill-btn"> Teamwork </span>
 <hr style="border-top: 1px solid #D6D6D6; margin: 40px 0;">
 
-## PROJECTS
+## 🚀 PROJECTS
 ### Enterprise BI Pipeline: ETL with SSIS, OLAP Cube with SSAS, and Live Power BI Dashboard | 2025 | <a href="https://github.com/NgocDuong17/SQL-BI-Dashboard-Project/blob/master/README.md" target="_blank"> Link </a>
 - ETL with SSIS: Designed and implemented an ETL pipeline in Visual Studio to extract, transform, and load structured data into a SQL Server data warehouse.
 - Cube Creation with SSAS: Built a multidimensional OLAP cube to support analytical queries using measures, dimensions, and hierarchies.
@@ -108,7 +108,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 <b>Skill: HTML · JavaScript · CSS · Figma · Asana </b>
 <hr style="border-top: 1px solid #D6D6D6; margin: 40px 0;">
 
-## EDUCATION
+## 🎓 EDUCATION
 ### University of Newcastle | 2023 - Current
 Master of Information Technology | Major: Business Analytics
 - Relevant Coursework: Data Wrangling & Visualisation · Database Management2 ·  Data Analytics for Business · Big Data · Business Intelligence for the Enterprise · Object Oriented Programming <br/>
@@ -118,7 +118,7 @@ Bachelor of Data Science
 - Relevant Coursework: Advanced Analytics · Statistical Data Analysis · Data Mining · Programming for Analytics
 <hr style="border-top: 1px solid #D6D6D6; margin: 40px 0;">
 
-## ACHIEVEMENTS
+## 🏆 ACHIEVEMENTS
 <ul>
   <li>
     <a href="https://learn.microsoft.com/api/credentials/share/en-us/ThiBaoNgocDuong-2776/535705988275A982?sharingId=4FC93E78C76DC4B8" target="_blank">

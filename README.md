@@ -1,6 +1,4 @@
 <link rel="stylesheet" type="text/css" href="assets/style.css"/>
-[Visit Website 🔗](https://example.com)
-
 
 <h1 class="heading"> Hi, I'm Thi Bao Ngoc <span style="color:#DEA692;">(Adoria)</span> Duong! </h1>
 Detail-oriented Data Analyst/Business Analyst with expertise in data visualization, data analysis, and programming languages, including Python, SQL, and R. Earned multiple Microsoft certifications (Power BI, Azure, and Fabric), demonstrating a strong commitment to lifelong learning and staying current with emerging technologies. Adaptable in fast-paced environments, proficient in diverse technologies and languages for efficient analysis and modeling.
@@ -23,8 +21,8 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 ## 🚀 PROJECTS
 <div class="project-wrap">
 <span class="project-title">
-  <b>Enterprise ETL Pipeline and Live PowerBI Dashboard</b>  
-  <a href="https://github.com/NgocDuong17/SQL-BI-Dashboard-Project/blob/master/README.md" target="_blank"> <i class="fa-solid fa-arrow-up-right-from-square"></i> </a>
+  <b>Enterprise ETL Pipeline and Live PowerBI </b>  
+  <a href="https://github.com/NgocDuong17/SQL-BI-Dashboard-Project/blob/master/README.md" target="_blank"> 🔗 </a>
   <p> Academic Project | 2025</p>
 </span>
 <button class="toggle-btn" aria-expanded="false" aria-controls="project1-content" onclick="toggleExpand(this)">▼</button>

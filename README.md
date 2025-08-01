@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="assets/style.css"/>
 
 
-# <span style="color:#A8D38D;">Hi, I'm Adoria!</span>
+# <span style="color:#A8D38D;">Hi, I'm Thi Bao Ngoc (Adoria) Duong!</span>
 Detail-oriented Data Analyst/Business Analyst with expertise in data visualization, data analysis, and programming languages, including Python, SQL, and R. Earned multiple Microsoft certifications (Power BI, Azure, and Fabric), demonstrating a strong commitment to lifelong learning and staying current with emerging technologies. Adaptable in fast-paced environments, proficient in diverse technologies and languages for efficient analysis and modeling.
 <br/><br/>
 
@@ -20,7 +20,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 
 ## Skillset
 
-** Cloud Platforms**
+**Cloud Platforms**
 Microsoft Azure (Certified), Microsoft Fabric (Certified)
 
 **Programming Languages**  
@@ -75,7 +75,7 @@ Collaboration, Problem Solving, Agile Communication, Report Writing
 - Designed an online fire management system for a university and proposed an implementation strategy, focusing on enhancing fire safety and response efficiency.
 - Utilized Visio and Bubble to develop comprehensive UML diagrams (use case, activity, domain class, layer class, sequence) and intuitive user interfaces.
 - Successfully led a team, managing workflows, allocating resources, and ensuring timely project completion using MS Teams for collaboration and task management.
-- Documented findings and project progress (utilizing Microsoft Project), risks, and action items in regular status reports shared with course coordinators.</br>
+- Documented findings and project progress (utilizing Microsoft Project), risks, and action items in regular status reports shared with course coordinators.<br/>
 <b>Skill: UML Diagramming ·  Microsoft Project · Visio · Bubble · Jira</b>
 <br/>
 

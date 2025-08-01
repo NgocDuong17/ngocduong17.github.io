@@ -67,12 +67,12 @@ h3 {
 
 /* === Links and Icons === */
 a {
-  color: #424242;
+  color: #A3C799;
   text-decoration: none;
 }
 a:hover {
   text-decoration: none;
-  color: #73966B;
+  color: #C0E3B8;
   font-weight: inherit;
 }
 
@@ -141,7 +141,7 @@ section {
   transition: background-color 0.3s ease;
 }
 .proj-skill-btn:hover {
-  background-color: #B4D9AB; 
+  background-color: #9FC795; 
   color: #FFFFFF;
 }
 

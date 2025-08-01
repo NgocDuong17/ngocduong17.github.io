@@ -18,51 +18,17 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 - Maintained and updated stock records, ensuring data accuracy in inventory systems.
 <hr style="border-top: 1px solid #D6D6D6; margin: 40px 0;">
 
-## 🔧 SKILLSET
-
-**Cloud Platforms**  
-<span class="skill-btn"> Microsoft Azure (Certified) </span>
-<span class="skill-btn"> Microsoft Fabric (Certified) </span>
-
-**Programming Languages**  
-<span class="skill-btn"> Python (Numpy, Web Scraping, Pandas) </span>
-<span class="skill-btn"> SQL </span>
-<span class="skill-btn"> R </span>
-<span class="skill-btn"> JavaScripts </span>
-<span class="skill-btn"> HTML/CSS </span>
-<span class="skill-btn"> Java </span>
-
-**Data Tools & BI Platforms**  
-<span class="skill-btn"> PowerBI (DAX, Power Query) </span>
-<span class="skill-btn"> SQL Server </span>
-<span class="skill-btn"> SSIS </span>
-<span class="skill-btn"> SSAS </span>
-
-**Data Modeling & Analysis**  
-<span class="skill-btn"> ETL Pipeline </span>
-<span class="skill-btn"> OLAP Cube </span>
-<span class="skill-btn"> Star Schema </span>
-<span class="skill-btn"> Data Warehousing </span>
-<span class="skill-btn"> Data Visualization </span>
-
-**Projects & UI/UX Tools**  
-<span class="skill-btn"> Figma </span>
-<span class="skill-btn"> Visio </span>
-<span class="skill-btn"> Microsoft Project </span>
-<span class="skill-btn"> Asana </span>
-<span class="skill-btn"> Jira </span>
-
-**Soft Skills**  
-<span class="skill-btn"> Collaboration </span>
-<span class="skill-btn"> Problem Solving </span>
-<span class="skill-btn"> Agile Communication </span>
-<span class="skill-btn"> Report Writing </span>
-<span class="skill-btn"> Teamwork </span>
-<hr style="border-top: 1px solid #D6D6D6; margin: 40px 0;">
 
 ## 🚀 PROJECTS
 <span class="project-wrap">
 Enterprise BI Pipeline: ETL with SSIS, OLAP Cube with SSAS, and Live Power BI Dashboard | 2025 | <a href="https://github.com/NgocDuong17/SQL-BI-Dashboard-Project/blob/master/README.md" target="_blank"> Link </a>
+  <ul>
+    <li>ETL with SSIS: Designed and implemented an ETL pipeline in Visual Studio to extract, transform, and load structured data into a SQL Server data warehouse.</li>
+    <li>Cube Creation with SSAS: Built a multidimensional OLAP cube to support analytical queries using measures, dimensions, and hierarchies.</li>
+    <li>Live Data Connection: Connected Power BI to the SSAS cube through Microsoft SQL Server Management Studio (SSMS) using a live connection for real-time insights.</li>
+    <li>Power BI Dashboard: Developed a dynamic, interactive Power BI dashboard with drill-down capabilities and custom visualizations for business users.</li>
+  </ul>
+</span>
 - ETL with SSIS: Designed and implemented an ETL pipeline in Visual Studio to extract, transform, and load structured data into a SQL Server data warehouse.
 - Cube Creation with SSAS: Built a multidimensional OLAP cube to support analytical queries using measures, dimensions, and hierarchies.
 - Live Data Connection: Connected Power BI to the SSAS cube through Microsoft SQL Server Management Studio (SSMS) using a live connection for real-time insights.
@@ -74,7 +40,6 @@ Enterprise BI Pipeline: ETL with SSIS, OLAP Cube with SSAS, and Live Power BI Da
 <span class="proj-skill-btn"> SQL Server Integration Services (SSIS) </span>
 <span class="proj-skill-btn"> Visual Studio </span>
 <span class="proj-skill-btn"> Data Warehousing </span>
-</span>
 
 ### Pedestrian Patterns on Major Sydney Street | 2025 | <a href="https://github.com/NgocDuong17/Pedestrian-Patterns-on-Major-Sydney-Streets/blob/main/README.md" target="_blank"> Link </a>
 - Analyzed Automatic Hourly Pedestrian Count data from the City of Sydney Data Hub to identify trends and support urban planning decisions.
@@ -137,6 +102,48 @@ Enterprise BI Pipeline: ETL with SSIS, OLAP Cube with SSAS, and Live Power BI Da
 <span class="proj-skill-btn"> Figma </span>
 <span class="proj-skill-btn"> Asana </span>
 <span class="proj-skill-btn"> Jira </span>
+<hr style="border-top: 1px solid #D6D6D6; margin: 40px 0;">
+
+## 🔧 SKILLSET
+
+**Cloud Platforms**  
+<span class="skill-btn"> Microsoft Azure (Certified) </span>
+<span class="skill-btn"> Microsoft Fabric (Certified) </span>
+
+**Programming Languages**  
+<span class="skill-btn"> Python (Numpy, Web Scraping, Pandas) </span>
+<span class="skill-btn"> SQL </span>
+<span class="skill-btn"> R </span>
+<span class="skill-btn"> JavaScripts </span>
+<span class="skill-btn"> HTML/CSS </span>
+<span class="skill-btn"> Java </span>
+
+**Data Tools & BI Platforms**  
+<span class="skill-btn"> PowerBI (DAX, Power Query) </span>
+<span class="skill-btn"> SQL Server </span>
+<span class="skill-btn"> SSIS </span>
+<span class="skill-btn"> SSAS </span>
+
+**Data Modeling & Analysis**  
+<span class="skill-btn"> ETL Pipeline </span>
+<span class="skill-btn"> OLAP Cube </span>
+<span class="skill-btn"> Star Schema </span>
+<span class="skill-btn"> Data Warehousing </span>
+<span class="skill-btn"> Data Visualization </span>
+
+**Projects & UI/UX Tools**  
+<span class="skill-btn"> Figma </span>
+<span class="skill-btn"> Visio </span>
+<span class="skill-btn"> Microsoft Project </span>
+<span class="skill-btn"> Asana </span>
+<span class="skill-btn"> Jira </span>
+
+**Soft Skills**  
+<span class="skill-btn"> Collaboration </span>
+<span class="skill-btn"> Problem Solving </span>
+<span class="skill-btn"> Agile Communication </span>
+<span class="skill-btn"> Report Writing </span>
+<span class="skill-btn"> Teamwork </span>
 <hr style="border-top: 1px solid #D6D6D6; margin: 40px 0;">
 
 ## 🎓 EDUCATION

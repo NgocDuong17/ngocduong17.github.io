@@ -22,7 +22,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 ## 🚀 PROJECTS
 <div class="project-wrap">
 <span class="project-title"><b>Enterprise BI Pipeline and Live Power BI Dashboard </b> | 2025 | <a href="https://github.com/NgocDuong17/SQL-BI-Dashboard-Project/blob/master/README.md" target="_blank"> Link </a></span>
-<button class="toggle-btn" aria-expanded="false" aria-controls="project1-content" onclick="toggleExpand(this)">Expand</button>
+<button class="toggle-btn" aria-expanded="false" aria-controls="project1-content" onclick="toggleExpand(this)">▼</button>
 <div id="project1-content" style="margin-top:10px;">
   <ul>
     <li>Designed and implemented an ETL pipeline in Visual Studio to extract, transform, and load structured data into a SQL Server data warehouse.</li>
@@ -43,7 +43,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 
 <div class="project-wrap">
 <span class="project-title"><b>Pedestrian Patterns on Major Sydney Street </b>| 2025 | <a href="https://github.com/NgocDuong17/Pedestrian-Patterns-on-Major-Sydney-Streets/blob/main/README.md" target="_blank"> Link </a></span>
-<button class="toggle-btn" aria-expanded="false" aria-controls="project1-content" onclick="toggleExpand(this)">Expand</button>
+<button class="toggle-btn" aria-expanded="false" aria-controls="project1-content" onclick="toggleExpand(this)">▼</button>
 <div id="project1-content" style="margin-top:10px;">
   <ul>
     <li>Analyzed Automatic Hourly Pedestrian Count data from the City of Sydney Data Hub to identify trends and support urban planning decisions.</li>
@@ -63,7 +63,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 
 <div class="project-wrap">
 <span class="project-title"><b>Plant Co. YTD vs PYTD Performance Analysis </b> | 2025 | <a href="https://github.com/NgocDuong17/Plant-Co.-YTD-and-PYTD-Performance-Dashboards/blob/main/README.md" target="_blank"> Link </a></span>
-<button class="toggle-btn" aria-expanded="false" aria-controls="project1-content" onclick="toggleExpand(this)">Expand</button>
+<button class="toggle-btn" aria-expanded="false" aria-controls="project1-content" onclick="toggleExpand(this)">▼</button>
 <div id="project1-content" style="margin-top:10px;">
   <ul>
     <li>Created calculated columns and measures using DAX for date dimension and key metrics (total sales, gross profit, gross profit %).</li>
@@ -83,7 +83,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 
 <div class="project-wrap">
 <span class="project-title"><b>Compliance Insights & Incentive Analysis </b> | 2024 (University) </span>
-<button class="toggle-btn" aria-expanded="false" aria-controls="project1-content" onclick="toggleExpand(this)">Expand</button>
+<button class="toggle-btn" aria-expanded="false" aria-controls="project1-content" onclick="toggleExpand(this)">▼</button>
 <div id="project1-content" style="margin-top:10px;">
   <ul>
     <li>Conducted a data quality process. Designed a star schema, defining relationships between fact and dimension tables for efficient analysis. Executed ETL processes</li>
@@ -103,7 +103,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 
 <div class="project-wrap">
 <span class="project-title"><b>Online Fire Management System </b>| 2024 (University) </span>
-<button class="toggle-btn" aria-expanded="false" aria-controls="project1-content" onclick="toggleExpand(this)">Expand</button>
+<button class="toggle-btn" aria-expanded="false" aria-controls="project1-content" onclick="toggleExpand(this)">▼</button>
 <div id="project1-content" style="margin-top:10px;">
   <ul>
     <li>Designed an online fire management system for a university and proposed an implementation strategy, focusing on enhancing fire safety and response efficiency.</li>
@@ -123,7 +123,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 
 <div class="project-wrap">
 <span class="project-title"><b>Educational Training Web Application </b>| 2024 (University) </span>
-<button class="toggle-btn" aria-expanded="false" aria-controls="project1-content" onclick="toggleExpand(this)">Expand</button>
+<button class="toggle-btn" aria-expanded="false" aria-controls="project1-content" onclick="toggleExpand(this)">▼</button>
 <div id="project1-content" style="margin-top:10px;">
   <ul>
     <li>Designed user interfaces for a role-based website using Figma, ensuring a seamless and intuitive user experience.</li>

@@ -66,6 +66,14 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 - Cube Creation with SSAS: Built a multidimensional OLAP cube to support analytical queries using measures, dimensions, and hierarchies.
 - Live Data Connection: Connected Power BI to the SSAS cube through Microsoft SQL Server Management Studio (SSMS) using a live connection for real-time insights.
 - Power BI Dashboard: Developed a dynamic, interactive Power BI dashboard with drill-down capabilities and custom visualizations for business users. <br/>
+<span class="proj-skill-btn"> Power BI </span>
+<span class="proj-skill-btn"> ETL Tools </span>
+<span class="proj-skill-btn"> SQL Server Analysis Services (SSAS) </span>
+<span class="proj-skill-btn"> Microsoft SQL Server </span>
+<span class="proj-skill-btn"> SQL Server Integration Services (SSIS) </span>
+<span class="proj-skill-btn"> Visual Studio </span>
+<span class="proj-skill-btn"> Data Warehousing </span>
+
 <b>Skill: Microsoft Power BI · ETL Tools · SQL Server Analysis Services (SSAS) · Microsoft SQL Server · SQL Server Integration Services (SSIS) · Visual Studio · Data Warehousing</b>
 
 ### Pedestrian Patterns on Major Sydney Street | 2025 | <a href="https://github.com/NgocDuong17/Pedestrian-Patterns-on-Major-Sydney-Streets/blob/main/README.md" target="_blank"> Link </a>

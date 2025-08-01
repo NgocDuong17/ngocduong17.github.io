@@ -15,7 +15,30 @@ body {
   margin-left: 20px;
   padding: 20px
 }
+.profile-column {
+  float: left;
+  width: 30%;
+  padding-right: 20px;
+}
 
+.content-column {
+  float: left;
+  width: 70%;
+}
+
+.page-wrapper::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Mobile fallback */
+@media (max-width: 768px) {
+  .profile-column, .content-column {
+    width: 100%;
+    float: none;
+  }
+}
 header h1 {
   display: none;
 }

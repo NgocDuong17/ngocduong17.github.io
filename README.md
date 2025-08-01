@@ -5,7 +5,7 @@
 Detail-oriented Data Analyst/Business Analyst with expertise in data visualization, data analysis, and programming languages, including Python, SQL, and R. Earned multiple Microsoft certifications (Power BI, Azure, and Fabric), demonstrating a strong commitment to lifelong learning and staying current with emerging technologies. Adaptable in fast-paced environments, proficient in diverse technologies and languages for efficient analysis and modeling.
 <br/><br/>
 
-## Experience
+## EXPERIENCES
 ### Research Analyst Internship | KOSEC - Kodari Securities | Jan - May 2025
 - Developed presentations to communicate market trends, supporting strategic decision-making for investment opportunities.
 - Summarized key market insights from financial news sources into daily, weekly, and monthly reports to provide stakeholders with actionable intelligence.
@@ -18,7 +18,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 - Maintained and updated stock records, ensuring data accuracy in inventory systems.
 <hr style="border-top: 1px solid #ccc; margin: 40px 0;">
 
-## Skillset
+## SKILLSET
 
 **Cloud Platforms**
 Microsoft Azure (Certified), Microsoft Fabric (Certified)
@@ -39,7 +39,7 @@ Figma, Microsoft Project, Visio, Jira, Asana
 Collaboration, Problem Solving, Agile Communication, Report Writing
 <hr style="border-top: 1px solid #ccc; margin: 40px 0;">
 
-## Projects
+## PROJECTS
 ### Enterprise BI Pipeline: ETL with SSIS, OLAP Cube with SSAS, and Live Power BI Dashboard | 2025 | <a href="https://github.com/NgocDuong17/SQL-BI-Dashboard-Project/blob/master/README.md" target="_blank"> Link </a>
 - ETL with SSIS: Designed and implemented an ETL pipeline in Visual Studio to extract, transform, and load structured data into a SQL Server data warehouse.
 - Cube Creation with SSAS: Built a multidimensional OLAP cube to support analytical queries using measures, dimensions, and hierarchies.

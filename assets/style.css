@@ -9,7 +9,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   padding: 0 2rem;
-  margin: 40px auto;
+  margin: auto 40px;
 }
 
 /* === Header === */

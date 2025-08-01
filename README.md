@@ -45,7 +45,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 <span class="skill-btn"> Data Warehousing </span>
 <span class="skill-btn"> Data Visualization </span>
 
-**Project & UI/UX Tools** 
+**Projects & UI/UX Tools**  
 <span class="skill-btn"> Figma </span>
 <span class="skill-btn"> Visio </span>
 <span class="skill-btn"> Microsoft Project </span>

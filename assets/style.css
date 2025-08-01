@@ -144,8 +144,9 @@ section {
 }
 
 .project-wrap {
+  position: relative;
   background: #f8f9fa;
-  border-left: 6px solid #C9A595;
+  border-left: 6px solid #EBD3CC;
   padding: 16px 20px;
   margin: 16px 0;
   border-radius: 10px;
@@ -170,7 +171,7 @@ section {
 
 .toggle-btn {
   position: absolute;
-  top: 16px;
+  bottom: 10px;
   right: 20px;
   background-color: #C9A595;
   color: white;

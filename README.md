@@ -1,9 +1,10 @@
 <link rel="stylesheet" type="text/css" href="assets/style.css"/>
 
 
-# <span style="color:#A8D38D;">Hi, I'm Thi Bao Ngoc (Adoria) Duong!</span>
+# <span style="color:#BA6323;">Hi, I'm Thi Bao Ngoc (Adoria) Duong!</span>
 Detail-oriented Data Analyst/Business Analyst with expertise in data visualization, data analysis, and programming languages, including Python, SQL, and R. Earned multiple Microsoft certifications (Power BI, Azure, and Fabric), demonstrating a strong commitment to lifelong learning and staying current with emerging technologies. Adaptable in fast-paced environments, proficient in diverse technologies and languages for efficient analysis and modeling.
 <br/><br/>
+<hr style="border-top: 1px solid #ffffff; margin: 40px 0;">
 
 ## EXPERIENCES
 ### Research Analyst Internship | KOSEC - Kodari Securities | Jan - May 2025
@@ -16,7 +17,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 - Executed planograms and optimized product placement based on store analytics.
 - Supported promotional campaigns with setup, monitoring, and customer engagement tracking.
 - Maintained and updated stock records, ensuring data accuracy in inventory systems.
-<hr style="border-top: 1px solid #ccc; margin: 40px 0;">
+<hr style="border-top: 1px solid #ffffff; margin: 40px 0;">
 
 ## SKILLSET
 
@@ -37,7 +38,7 @@ Figma, Microsoft Project, Visio, Jira, Asana
 
 **Soft Skills**  
 Collaboration, Problem Solving, Agile Communication, Report Writing
-<hr style="border-top: 1px solid #ccc; margin: 40px 0;">
+<hr style="border-top: 1px solid #ffffff; margin: 40px 0;">
 
 ## PROJECTS
 ### Enterprise BI Pipeline: ETL with SSIS, OLAP Cube with SSAS, and Live Power BI Dashboard | 2025 | <a href="https://github.com/NgocDuong17/SQL-BI-Dashboard-Project/blob/master/README.md" target="_blank"> Link </a>
@@ -85,7 +86,7 @@ Collaboration, Problem Solving, Agile Communication, Report Writing
 - Created a responsive visitor interface, including pages like Home, Pricing, Contact Us, Payment, Features, and Footer, with smooth navigation and page redirection.
 - Led the CSS development for the entire website, ensuring consistency in design and a polished UI/UX experience. <br/>
 <b>Skill: HTML · JavaScript · CSS · Figma · Asana </b>
-<br/><br/>
+<hr style="border-top: 1px solid #ffffff; margin: 40px 0;">
 
 ## EDUCATION
 ### University of Newcastle | 2023 - Current
@@ -95,6 +96,7 @@ Master of Information Technology | Major: Business Analytics
 ###  SPJain School of Global Management | 2020 - 2023
 Bachelor of Data Science
 - Relevant Coursework: Advanced Analytics · Statistical Data Analysis · Data Mining · Programming for Analytics
+<hr style="border-top: 1px solid #ffffff; margin: 40px 0;">
 
 ## ACHIEVEMENTS
 <ul>

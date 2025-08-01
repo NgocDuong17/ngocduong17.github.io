@@ -199,21 +199,22 @@ section {
 
 .achievement{
   margin-bottom: 10px;
-  font-weight: bold;
 }
 
 .achievement a{
   margin-left: 5px;
 }
 
-.achieve-title{}
+.achieve-title{
+  font-weight: bold
+}
 
 .achieve-content{
   margin: 1em 0;
   padding: 15px;
   padding-right: 5px;
   border-left: 4px solid #B4D9AB; /* Your soft green border */
-  color: #556B2F; /* A complementary dark green text color */
+  color: #575757; 
   font-style: italic;
   background-color: white; 
   

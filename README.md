@@ -260,7 +260,7 @@ function toggleExpand(button) {
   const wrap = button.parentElement;
   wrap.classList.toggle('expanded');
   const expanded = wrap.classList.contains('expanded');
-  button.textContent = expanded ? 'Collapse' : 'Expand';
+  button.textContent = expanded ? '▲' : '▼';
   button.setAttribute('aria-expanded', expanded);
 }
 </script>

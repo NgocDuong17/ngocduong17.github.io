@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="assets/style.css"/>
 
 
-# Hi, I'm Thi Bao Ngoc <span style="color:#C9A595;">(Adoria)</span> Duong!
+# Hi, I'm Thi Bao Ngoc <span style="color:#DEA692;">(Adoria)</span> Duong!
 Detail-oriented Data Analyst/Business Analyst with expertise in data visualization, data analysis, and programming languages, including Python, SQL, and R. Earned multiple Microsoft certifications (Power BI, Azure, and Fabric), demonstrating a strong commitment to lifelong learning and staying current with emerging technologies. Adaptable in fast-paced environments, proficient in diverse technologies and languages for efficient analysis and modeling.
 <hr style="border-top: 1px solid #D6D6D6; margin: 40px 0;">
 

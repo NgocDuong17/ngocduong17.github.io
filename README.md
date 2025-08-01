@@ -151,83 +151,64 @@ Bachelor of Data Science
 
 ## 🏆 ACHIEVEMENTS
 
-<details>
+<details class="achievement">
       <summary>
         <a href="https://learn.microsoft.com/api/credentials/share/en-us/ThiBaoNgocDuong-2776/535705988275A982?sharingId=4FC93E78C76DC4B8" target="_blank">
       Power BI Data Analyst Associate (2025) | Microsoft </a>
       </summary>
-  Demonstrated proficiency in preparing, modeling, visualizing, and analyzing data using Microsoft Power BI. Skilled in leveraging Power Query and DAX to 
-  deliver actionable insights and create interactive reports and dashboards. Collaborated with business stakeholders to meet data analysis requirements and supported data-driven decision-making processes
+  Proficient in Power BI: skilled with Power Query, data modeling, DAX, and creating interactive dashboards to support stakeholder decisions.
 </details>
 
-<details>
+<details class="achievement">
       <summary>
         <a href="https://learn.microsoft.com/api/credentials/share/en-us/ThiBaoNgocDuong-2776/F7D7E910F1648308?sharingId=4FC93E78C76DC4B8" target="_blank">
       Microsoft Azure Fundamentals (2025) | Microsoft </a>
       </summary>
-  Demonstrated foundational knowledge of cloud concepts and core Azure services, including compute, networking, storage, and Azure governance tools. Equipped to describe Azure architecture, pricing models, and security features, serving as a solid starting point for a career in Azure
+  Validated foundational knowledge of cloud concepts, core Azure services, and governance tools. Equipped to describe Azure architecture, pricing models, and security features. Serves as a solid starting point for a career in Azure.
 </details>
 
-<details>
+<details class="achievement">
       <summary>
         <a href="https://learn.microsoft.com/api/credentials/share/en-us/ThiBaoNgocDuong-2776/7221CCA12ABFF2D4?sharingId=4FC93E78C76DC4B8" target="_blank">
       Microsoft Certified: Fabric Analytics Engineer Associate (2025) | Microsoft
     </a>
       </summary>
-  Demonstrated expertise in designing and implementing data solutions using Microsoft Fabric. Skilled in integrating data from multiple sources, transforming data for analytical purposes, and deploying data models to support business intelligence and decision-making processes. Proficient in utilizing Fabric's tools and services to manage data pipelines, data lakes, and data warehouses.
+  Proficient in designing and implementing data solutions using Microsoft Fabric, including data integration, transformation, and deployment.
 </details>
 
-<details>
+<details class="achievement">
       <summary>
         <a href="https://www.hackerrank.com/certificates/iframe/3e815e933527" target="_blank">
       SQL (Advanced) Certificate (2025) | HackerRank
     </a>
       </summary>
-  Validated expertise in advanced SQL techniques through a timed, one-hour HackerRank assessment. Demonstrated mastery in the following key areas:
-  <ul>
-  <li>Complex joins, set operations (UNION, INTERSECT, EXCEPT), and correlated subqueries</li>
-  <li>Query optimization and execution plan analysis for performance tuning</li>
-  <li>Data modeling strategies, constraints, indexing, and prepared statements</li>
-  <li>Utilization of Common Table Expressions (CTEs), recursive queries, and advanced window functions (e.g. ROW_NUMBER, RANK, DENSE_RANK, LEAD, LAG)</li>
-  </ul>
+  Proficient in complex joins, set operations, query optimization, data modeling, indexing, CTEs, and advanced window functions.
 </details>
 
-<details>
+<details class="achievement">
       <summary>
         <a href="https://www.coursera.org/account/accomplishments/certificate/4QHB3LB8WCT6" target="_blank">
       Application of Data Analysis in Business with R Programming | Coursera
     </a>
       </summary>
-  <ul>
-    <li>Used R and RStudio to manipulate and visualize real-world business data, focusing on pandemic-era customer trends</li>
-    <li>Applied descriptive statistics, trend analysis, correlation, and visual tools—including scatter plots, histograms, line plots, and circular plots—to extract actionable insights</li>
-    <li>Delivered analysis that supports strategic decision-making and resource allocation under uncertainty</li>
-  </ul>
+  Analyzed pandemic-era customer data using RStudio; applied statistics, trend analysis, and visualizations to inform business decisions.
 </details>
 
-<details>
+<details class="achievement">
       <summary>
         <a href="https://www.coursera.org/account/accomplishments/certificate/HFXQT6LKKFNE" target="_blank">
       Customer Reports in Google Analytics | Coursera </a>
       </summary>
-  <ul>
-    <li>Designed and built three custom Google Analytics reports using multiple approaches</li>
-    <li>Interpreted data outputs to support analytics-driven decision‑making</li>
-    <li>Identified and organized required data fields to tailor reports to business goals</li>
-  </ul>
+  Designed and implemented three custom Google Analytics reports using various methods to meet business objectives
 </details>
 
-<details>
+<details class="achievement">
       <summary>
         <a href="https://www.coursera.org/account/accomplishments/certificate/3FXVQNQWV9WZ" target="_blank">
       Excel Fundamental for Data Analysis (2021) | Coursera
     </a>
       </summary>
-  <ul>
-    <li>Cleaning and preparing data using text, date, lookup, and logical functions in Excel</li>
-    <li>Automating workflows using Named Ranges and Excel Tables</li>
-    <li>Performing data transformation, categorization, and lookup tasks (e.g., IF, VLOOKUP, INDEX/MATCH)</li>
-  </ul>
+  Proficient in data cleaning, automation, and transformation using Excel functions like VLOOKUP, INDEX/MATCH, and logical formulas.
 </details>
 
   

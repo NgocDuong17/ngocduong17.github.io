@@ -12,6 +12,10 @@ body {
   margin: auto 40px;
 }
 
+header h1 {
+  display: none;
+}
+
 /* === Header === */
 h1, h2, h3 {
   color: #4CAF50;

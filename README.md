@@ -46,8 +46,11 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 
 
 <div class="project-wrap">
-<span class="project-title"><b>Pedestrian Patterns on Major Sydney Street </b> <a href="https://github.com/NgocDuong17/Pedestrian-Patterns-on-Major-Sydney-Streets/blob/main/README.md" target="_blank"> Link </a></span>
-<p> Personal Project | 2025</p>
+<span class="project-title">
+  <b>Pedestrian Patterns on Major Sydney Street </b> 
+  <a href="https://github.com/NgocDuong17/Pedestrian-Patterns-on-Major-Sydney-Streets/blob/main/README.md" target="_blank"> Link </a>
+  <p> Personal Project | 2025</p>
+</span>
 <button class="toggle-btn" aria-expanded="false" aria-controls="project1-content" onclick="toggleExpand(this)">▼</button>
 <div id="project1-content" style="margin-top:10px;">
   <ul>
@@ -67,8 +70,11 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 
 
 <div class="project-wrap">
-<span class="project-title"><b>Plant Co. YTD vs PYTD Performance Analysis </b><a href="https://github.com/NgocDuong17/Plant-Co.-YTD-and-PYTD-Performance-Dashboards/blob/main/README.md" target="_blank"> Link </a></span>
-<p> Personal Project | 2025</p>
+<span class="project-title">
+  <b>Plant Co. YTD vs PYTD Performance Analysis </b>
+  <a href="https://github.com/NgocDuong17/Plant-Co.-YTD-and-PYTD-Performance-Dashboards/blob/main/README.md" target="_blank"> Link </a>
+  <p> Personal Project | 2025</p>
+</span>
 <button class="toggle-btn" aria-expanded="false" aria-controls="project1-content" onclick="toggleExpand(this)">▼</button>
 <div id="project1-content" style="margin-top:10px;">
   <ul>
@@ -88,8 +94,10 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 
 
 <div class="project-wrap">
-<span class="project-title"><b>Compliance Insights & Incentive Analysis </b></span>
-<p> Academic Project | 2024</p>
+<span class="project-title">
+  <b>Compliance Insights & Incentive Analysis </b>
+  <p> Academic Project | 2024</p>
+</span>
 <button class="toggle-btn" aria-expanded="false" aria-controls="project1-content" onclick="toggleExpand(this)">▼</button>
 <div id="project1-content" style="margin-top:10px;">
   <ul>
@@ -109,8 +117,10 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 
 
 <div class="project-wrap">
-<span class="project-title"><b>Online Fire Management System </b> </span>
-<p> Academic Project | 2024</p>
+<span class="project-title">
+  <b>Online Fire Management System </b> 
+  <p> Academic Project | 2024</p>
+</span>
 <button class="toggle-btn" aria-expanded="false" aria-controls="project1-content" onclick="toggleExpand(this)">▼</button>
 <div id="project1-content" style="margin-top:10px;">
   <ul>
@@ -130,8 +140,10 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 
 
 <div class="project-wrap">
-<span class="project-title"><b>Educational Training Web Application </b></span>
-<p> Academic Project | 2024</p>
+<span class="project-title">
+  <b>Educational Training Web Application </b>
+  <p> Academic Project | 2024</p>
+</span>
 <button class="toggle-btn" aria-expanded="false" aria-controls="project1-content" onclick="toggleExpand(this)">▼</button>
 <div id="project1-content" style="margin-top:10px;">
   <ul>

@@ -65,6 +65,11 @@ h3 {
   color: #555;
 }
 
+.heading{
+  font-weight: 600;
+  font-size: 2em;
+}
+
 /* === Links and Icons === */
 a {
   color: #A3C799;

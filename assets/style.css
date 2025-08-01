@@ -8,7 +8,7 @@ body {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  padding: 0 20px;
+  padding: 40px 20px;
   margin: auto 40px;
 }
 
@@ -45,7 +45,7 @@ a {
 }
 a:hover {
   text-decoration: none;
-  color: 99d6ff;
+  color: #99d6ff;
 }
 
 /* === Layout and Sections === */

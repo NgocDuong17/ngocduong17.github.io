@@ -8,8 +8,8 @@ body {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;*/
-  background: #b8bee3;
-background: linear-gradient(90deg,rgba(184, 190, 227, 1) 0%, rgba(207, 255, 229, 1) 50%, rgba(236, 245, 181, 1) 100%);
+  background: #fce5e1;
+  background: linear-gradient(90deg, rgba(252, 229, 225, 1) 0%, rgba(231, 255, 214, 1) 100%);
   padding-left: 20px;
   padding-right: 20px;
   margin-top: 30px

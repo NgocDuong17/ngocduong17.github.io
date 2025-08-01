@@ -151,12 +151,12 @@ section {
   padding: 16px 20px;
   margin: 16px 0;
   border-radius: 10px;
-  bottom: 10px;
+  bottom: 15px;
   color: #333;
   line-height: 1.6;
   box-shadow: 0 2px 6px rgba(0,0,0,0.05);
   overflow: hidden;
-  max-height: 4.5em; /*the preview*/
+  max-height: 5em; /*the preview*/
   position: relative;
   transition: max-height 0.3s ease;
 }
@@ -187,12 +187,14 @@ section {
   border-radius: 20px;
   transition: background-color 0.3s ease;
 }
+
 .toggle-btn:hover {
   background-color: #B4D9AB;
 }
 
 .achievement{
-  margin-bottom: 5px;
+  margin-bottom: 10px;
+  font-weight: bold;
 }
 
 .achievement a{
@@ -204,6 +206,7 @@ section {
 .achieve-content{
   margin: 1em 0;
   padding: 15px;
+  padding-right: 5px;
   border-left: 4px solid #B4D9AB; /* Your soft green border */
   color: #556B2F; /* A complementary dark green text color */
   font-style: italic;

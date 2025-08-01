@@ -30,7 +30,7 @@ Python: Immediate level
 - Conducted extensive data cleaning and transformation, handling nulls, duplicates, and datetime inconsistencies, with staging layers for auditability.
 - Built ETL pipeline in SQL Server and modelled data using Star Schema
 - Developed a Power BI dashboard with dynamic KPIs and interactive drill-downs
-- Revealed peak traffic hours and seasonal surges; enabled data-driven decisions for staffing, transport, and marketing.
+- Revealed peak traffic hours and seasonal surges; enabled data-driven decisions for staffing, transport, and marketing. <br>
 <b>Skill: Power BI, SQL, Excel, Data Modelling, DAX</b>
 
 ### EPA Incentive Program Analysis | Group Project | 2024

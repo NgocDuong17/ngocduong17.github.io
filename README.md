@@ -46,7 +46,8 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 
 
 <div class="project-wrap">
-<span class="project-title"><b>Pedestrian Patterns on Major Sydney Street </b>| 2025 | <a href="https://github.com/NgocDuong17/Pedestrian-Patterns-on-Major-Sydney-Streets/blob/main/README.md" target="_blank"> Link </a></span>
+<span class="project-title"><b>Pedestrian Patterns on Major Sydney Street </b> <a href="https://github.com/NgocDuong17/Pedestrian-Patterns-on-Major-Sydney-Streets/blob/main/README.md" target="_blank"> Link </a></span>
+<p> Personal Project | 2025</p>
 <button class="toggle-btn" aria-expanded="false" aria-controls="project1-content" onclick="toggleExpand(this)">▼</button>
 <div id="project1-content" style="margin-top:10px;">
   <ul>
@@ -66,7 +67,8 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 
 
 <div class="project-wrap">
-<span class="project-title"><b>Plant Co. YTD vs PYTD Performance Analysis </b> | 2025 | <a href="https://github.com/NgocDuong17/Plant-Co.-YTD-and-PYTD-Performance-Dashboards/blob/main/README.md" target="_blank"> Link </a></span>
+<span class="project-title"><b>Plant Co. YTD vs PYTD Performance Analysis </b><a href="https://github.com/NgocDuong17/Plant-Co.-YTD-and-PYTD-Performance-Dashboards/blob/main/README.md" target="_blank"> Link </a></span>
+<p> Personal Project | 2025</p>
 <button class="toggle-btn" aria-expanded="false" aria-controls="project1-content" onclick="toggleExpand(this)">▼</button>
 <div id="project1-content" style="margin-top:10px;">
   <ul>
@@ -86,7 +88,8 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 
 
 <div class="project-wrap">
-<span class="project-title"><b>Compliance Insights & Incentive Analysis </b> | 2024 (University) </span>
+<span class="project-title"><b>Compliance Insights & Incentive Analysis </b></span>
+<p> Academic Project | 2024</p>
 <button class="toggle-btn" aria-expanded="false" aria-controls="project1-content" onclick="toggleExpand(this)">▼</button>
 <div id="project1-content" style="margin-top:10px;">
   <ul>
@@ -106,7 +109,8 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 
 
 <div class="project-wrap">
-<span class="project-title"><b>Online Fire Management System </b>| 2024 (University) </span>
+<span class="project-title"><b>Online Fire Management System </b> </span>
+<p> Academic Project | 2024</p>
 <button class="toggle-btn" aria-expanded="false" aria-controls="project1-content" onclick="toggleExpand(this)">▼</button>
 <div id="project1-content" style="margin-top:10px;">
   <ul>
@@ -126,7 +130,8 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 
 
 <div class="project-wrap">
-<span class="project-title"><b>Educational Training Web Application </b>| 2024 (University) </span>
+<span class="project-title"><b>Educational Training Web Application </b></span>
+<p> Academic Project | 2024</p>
 <button class="toggle-btn" aria-expanded="false" aria-controls="project1-content" onclick="toggleExpand(this)">▼</button>
 <div id="project1-content" style="margin-top:10px;">
   <ul>
@@ -203,7 +208,9 @@ Bachelor of Data Science
         <a href="https://learn.microsoft.com/api/credentials/share/en-us/ThiBaoNgocDuong-2776/535705988275A982?sharingId=4FC93E78C76DC4B8" target="_blank">
       Power BI Data Analyst Associate (2025) | Microsoft </a>
       </summary>
-  Proficient in Power BI: skilled with Power Query, data modeling, DAX, and creating interactive dashboards to support stakeholder decisions.
+ <blockquote class="achieve-content">
+  Proficient in Power BI: skilled with Power Query, data modeling, DAX, and creating interactive dashboards to support stakeholder decisions
+ </blockquote>
 </details>
 
 <details class="achievement">
@@ -211,7 +218,9 @@ Bachelor of Data Science
         <a href="https://learn.microsoft.com/api/credentials/share/en-us/ThiBaoNgocDuong-2776/F7D7E910F1648308?sharingId=4FC93E78C76DC4B8" target="_blank">
       Microsoft Azure Fundamentals (2025) | Microsoft </a>
       </summary>
+  <blockquote class="achieve-content">
   Validated foundational knowledge of cloud concepts, core Azure services, and governance tools. Equipped to describe Azure architecture, pricing models, and security features. Serves as a solid starting point for a career in Azure.
+  </blockquote>
 </details>
 
 <details class="achievement">
@@ -220,7 +229,9 @@ Bachelor of Data Science
       Microsoft Certified: Fabric Analytics Engineer Associate (2025) | Microsoft
     </a>
       </summary>
-  Proficient in designing and implementing data solutions using Microsoft Fabric, including data integration, transformation, and deployment.
+  <blockquote class="achieve-content">
+  Proficient in designing and implementing data solutions using Microsoft Fabric, including data integration, transformation, and deployment
+  </blockquote>
 </details>
 
 <details class="achievement">
@@ -229,7 +240,9 @@ Bachelor of Data Science
       SQL (Advanced) Certificate (2025) | HackerRank
     </a>
       </summary>
-  Proficient in complex joins, set operations, query optimization, data modeling, indexing, CTEs, and advanced window functions.
+  <blockquote class="achieve-content">
+  Proficient in complex joins, set operations, query optimization, data modeling, indexing, CTEs, and advanced window functions
+  </blockquote>
 </details>
 
 <details class="achievement">
@@ -238,7 +251,9 @@ Bachelor of Data Science
       Application of Data Analysis in Business with R Programming | Coursera
     </a>
       </summary>
+  <blockquote class="achieve-content">
   Analyzed pandemic-era customer data using RStudio; applied statistics, trend analysis, and visualizations to inform business decisions.
+  </blockquote>
 </details>
 
 <details class="achievement">
@@ -257,7 +272,9 @@ Bachelor of Data Science
       Excel Fundamental for Data Analysis (2021) | Coursera
     </a>
       </summary>
+  <blockquote class="achieve-content">
   Proficient in data cleaning, automation, and transformation using Excel functions like VLOOKUP, INDEX/MATCH, and logical formulas.
+  </blockquote>
 </details>
 
   

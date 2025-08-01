@@ -21,7 +21,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 
 ## SKILLSET
 
-**Cloud Platforms**
+**Cloud Platforms**  
 Microsoft Azure (Certified), Microsoft Fabric (Certified)
 
 **Programming Languages**  

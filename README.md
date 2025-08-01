@@ -38,38 +38,46 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 </div>
 
 
-
-### Pedestrian Patterns on Major Sydney Street | 2025 | <a href="https://github.com/NgocDuong17/Pedestrian-Patterns-on-Major-Sydney-Streets/blob/main/README.md" target="_blank"> Link </a>
-- Analyzed Automatic Hourly Pedestrian Count data from the City of Sydney Data Hub to identify trends and support urban planning decisions.
-- Conducted extensive data cleaning and transformation, handling nulls, duplicates, and datetime inconsistencies, with staging layers for auditability.
-- Built ETL pipeline in SQL Server and modelled data using Star Schema
-- Developed a Power BI dashboard with dynamic KPIs and interactive drill-downs
-- Revealed peak traffic hours and seasonal surges; enabled data-driven decisions for staffing, transport, and marketing. <br/>
+<div class="project-wrap">
+<span class="project-title"><b>Pedestrian Patterns on Major Sydney Street </b>| 2025 | <a href="https://github.com/NgocDuong17/Pedestrian-Patterns-on-Major-Sydney-Streets/blob/main/README.md" target="_blank"> Link </a></span>
+  <ul>
+    <li>Analyzed Automatic Hourly Pedestrian Count data from the City of Sydney Data Hub to identify trends and support urban planning decisions.</li>
+    <li>Conducted extensive data cleaning and transformation, handling nulls, duplicates, and datetime inconsistencies, with staging layers for auditability.</li>
+    <li>Built ETL pipeline in SQL Server and modelled data using Star Schema</li>
+    <li>Developed a Power BI dashboard with dynamic KPIs and interactive drill-downs</li>
+    <li>Revealed peak traffic hours and seasonal surges; enabled data-driven decisions for staffing, transport, and marketing.</li>
+  </ul>
 <span class="proj-skill-btn"> Power BI </span>
 <span class="proj-skill-btn"> Excel </span>
 <span class="proj-skill-btn"> SQL </span>
 <span class="proj-skill-btn"> Data Modelling </span>
 <span class="proj-skill-btn"> DAX </span>
+</div>
 
 
-### Plant Co. YTD vs PYTD Performance Analysis | 2025 | <a href="https://github.com/NgocDuong17/Plant-Co.-YTD-and-PYTD-Performance-Dashboards/blob/main/README.md" target="_blank"> Link </a>
-- Created calculated columns and measures using DAX for date dimension and key metrics (total sales, gross profit, gross profit %).
-- Cleaned, transformed, and consolidated data in Power Query (handled duplicates and null, formatting).
-- Built interactive Power BI visuals, including treemaps, line/column charts, and waterfall charts with drill-down features.
-- Enhanced user experience with slicers, bookmarks, conditional formatting, and dynamic titles.
-- Applied conditional formatting for YTD vs. PYTD differences and designed a dynamic title that updates based on slicer selection. <br/>
+<div class="project-wrap">
+<span class="project-title"><b>Plant Co. YTD vs PYTD Performance Analysis </b> | 2025 | <a href="https://github.com/NgocDuong17/Plant-Co.-YTD-and-PYTD-Performance-Dashboards/blob/main/README.md" target="_blank"> Link </a></span>
+  <ul>
+    <li>Created calculated columns and measures using DAX for date dimension and key metrics (total sales, gross profit, gross profit %).</li>
+    <li>Cleaned, transformed, and consolidated data in Power Query (handled duplicates and null, formatting).</li>
+    <li>Built interactive Power BI visuals, including treemaps, line/column charts, and waterfall charts with drill-down features.</li>
+    <li>Enhanced user experience with slicers, bookmarks, conditional formatting, and dynamic titles.</li>
+    <li>Applied conditional formatting for YTD vs. PYTD differences and designed a dynamic title that updates based on slicer selection.</li>
+  </ul>
 <span class="proj-skill-btn"> Power BI </span>
 <span class="proj-skill-btn"> Data Visualization </span>
 <span class="proj-skill-btn"> Power Query </span>
 <span class="proj-skill-btn"> Data Modelling </span>
 <span class="proj-skill-btn"> DAX </span>
 
-
-### Compliance Insights & Incentive Analysis | 2024 (University)
-- Conducted a data quality process. Designed a star schema, defining relationships between fact and dimension tables for efficient analysis. Executed ETL processes
-- Created optimized SQL queries to aggregate data from related tables, generating performance reports and insights on top-performing officers and office branch trends.
-- Predicted compliance trends for the upcoming year using a regression model, using Excel and Python
-- Delivered incentive program recommendations based on data-driven insights. <br/>
+<div class="project-wrap">
+<span class="project-title"><b>Compliance Insights & Incentive Analysis </b> | 2024 (University) </span>
+  <ul>
+    <li>Conducted a data quality process. Designed a star schema, defining relationships between fact and dimension tables for efficient analysis. Executed ETL processes</li>
+    <li>Created optimized SQL queries to aggregate data from related tables, generating performance reports and insights on top-performing officers and office branch trends.</li>
+    <li>Predicted compliance trends for the upcoming year using a regression model, using Excel and Python</li>
+    <li>Delivered incentive program recommendations based on data-driven insights.</li>
+  </ul>
 <span class="proj-skill-btn"> Excel Pivot Table </span>
 <span class="proj-skill-btn"> Python </span>
 <span class="proj-skill-btn"> ETL </span>
@@ -77,12 +85,15 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 <span class="proj-skill-btn"> Star Schema </span>
 <span class="proj-skill-btn"> icrosoft Team Planner </span>
 
-  
-### Online Fire Management System | 2024 (University)
-- Designed an online fire management system for a university and proposed an implementation strategy, focusing on enhancing fire safety and response efficiency.
-- Utilized Visio and Bubble to develop comprehensive UML diagrams (use case, activity, domain class, layer class, sequence) and intuitive user interfaces.
-- Successfully led a team, managing workflows, allocating resources, and ensuring timely project completion using MS Teams for collaboration and task management.
-- Documented findings and project progress (utilizing Microsoft Project), risks, and action items in regular status reports shared with course coordinators.<br/>
+
+<div class="project-wrap">
+<span class="project-title"><b>Online Fire Management System </b>| 2024 (University) </span>
+  <ul>
+    <li>Designed an online fire management system for a university and proposed an implementation strategy, focusing on enhancing fire safety and response efficiency.</li>
+    <li>Utilized Visio and Bubble to develop comprehensive UML diagrams (use case, activity, domain class, layer class, sequence) and intuitive user interfaces.</li>
+    <li>Successfully led a team, managing workflows, allocating resources, and ensuring timely project completion using MS Teams for collaboration and task management.</li>
+    <li>Documented findings and project progress (utilizing Microsoft Project), risks, and action items in regular status reports shared with course coordinators.</li>
+  </ul>
 <span class="proj-skill-btn"> UML Diagramming </span>
 <span class="proj-skill-btn"> Microsoft Project </span>
 <span class="proj-skill-btn"> Visio </span>
@@ -90,11 +101,15 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 <span class="proj-skill-btn"> Jira </span>
 <span class="proj-skill-btn"> Microsoft Team Planner </span>
 
-### Educational Training Web Application | 2024 (University)
-- Designed user interfaces for a role-based website using Figma, ensuring a seamless and intuitive user experience.
-- Developed a website with distinct user and admin functionalities: users could view courses, price updates, track learning paths, progress, achievements, and take quizzes, while admins managed content access and user permissions.
-- Created a responsive visitor interface, including pages like Home, Pricing, Contact Us, Payment, Features, and Footer, with smooth navigation and page redirection.
-- Led the CSS development for the entire website, ensuring consistency in design and a polished UI/UX experience. <br/>
+
+<div class="project-wrap">
+<span class="project-title"><b>Educational Training Web Application </b>| 2024 (University) </span>
+  <ul>
+    <li>Designed user interfaces for a role-based website using Figma, ensuring a seamless and intuitive user experience.</li>
+    <li>Developed a website with distinct user and admin functionalities: users could view courses, price updates, track learning paths, progress, achievements, and take quizzes, while admins managed content access and user permissions.</li>
+    <li>Created a responsive visitor interface, including pages like Home, Pricing, Contact Us, Payment, Features, and Footer, with smooth navigation and page redirection.</li>
+    <li>Led the CSS development for the entire website, ensuring consistency in design and a polished UI/UX experience.</li>
+  </ul>
 <span class="proj-skill-btn"> HTML/CSS </span>
 <span class="proj-skill-btn"> JavaScript </span>
 <span class="proj-skill-btn"> Figma </span>

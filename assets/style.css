@@ -161,7 +161,7 @@ section {
   line-height: 1.6;
   box-shadow: 0 2px 6px rgba(0,0,0,0.05);
   overflow: hidden;
-  max-height: 5.3em; /*the preview*/
+  max-height: 4.9em; /*the preview*/
   position: relative;
   transition: max-height 0.3s ease;
 }

@@ -201,4 +201,12 @@ section {
 
 .achieve-title{}
 
-.achieve-content{}
+.achieve-content{
+  margin: 1em 0;
+  padding-left: 1.2em;
+  border-left: 4px solid #B4D9AB; /* Your soft green border */
+  color: #556B2F; /* A complementary dark green text color */
+  font-style: italic;
+  background-color: #F5FAF2; /* A very light greenish background */
+  border-radius: 4px;
+}

@@ -43,6 +43,8 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 
 <div class="project-wrap">
 <span class="project-title"><b>Pedestrian Patterns on Major Sydney Street </b>| 2025 | <a href="https://github.com/NgocDuong17/Pedestrian-Patterns-on-Major-Sydney-Streets/blob/main/README.md" target="_blank"> Link </a></span>
+<button class="toggle-btn" aria-expanded="false" aria-controls="project1-content" onclick="toggleExpand(this)">Expand</button>
+<div id="project1-content" style="margin-top:10px;">
   <ul>
     <li>Analyzed Automatic Hourly Pedestrian Count data from the City of Sydney Data Hub to identify trends and support urban planning decisions.</li>
     <li>Conducted extensive data cleaning and transformation, handling nulls, duplicates, and datetime inconsistencies, with staging layers for auditability.</li>
@@ -56,10 +58,13 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 <span class="proj-skill-btn"> Data Modelling </span>
 <span class="proj-skill-btn"> DAX </span>
 </div>
+</div>
 
 
 <div class="project-wrap">
 <span class="project-title"><b>Plant Co. YTD vs PYTD Performance Analysis </b> | 2025 | <a href="https://github.com/NgocDuong17/Plant-Co.-YTD-and-PYTD-Performance-Dashboards/blob/main/README.md" target="_blank"> Link </a></span>
+<button class="toggle-btn" aria-expanded="false" aria-controls="project1-content" onclick="toggleExpand(this)">Expand</button>
+<div id="project1-content" style="margin-top:10px;">
   <ul>
     <li>Created calculated columns and measures using DAX for date dimension and key metrics (total sales, gross profit, gross profit %).</li>
     <li>Cleaned, transformed, and consolidated data in Power Query (handled duplicates and null, formatting).</li>
@@ -72,9 +77,14 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 <span class="proj-skill-btn"> Power Query </span>
 <span class="proj-skill-btn"> Data Modelling </span>
 <span class="proj-skill-btn"> DAX </span>
+</div>
+</div>
+
 
 <div class="project-wrap">
 <span class="project-title"><b>Compliance Insights & Incentive Analysis </b> | 2024 (University) </span>
+<button class="toggle-btn" aria-expanded="false" aria-controls="project1-content" onclick="toggleExpand(this)">Expand</button>
+<div id="project1-content" style="margin-top:10px;">
   <ul>
     <li>Conducted a data quality process. Designed a star schema, defining relationships between fact and dimension tables for efficient analysis. Executed ETL processes</li>
     <li>Created optimized SQL queries to aggregate data from related tables, generating performance reports and insights on top-performing officers and office branch trends.</li>
@@ -87,10 +97,14 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 <span class="proj-skill-btn"> SQL </span>
 <span class="proj-skill-btn"> Star Schema </span>
 <span class="proj-skill-btn"> icrosoft Team Planner </span>
+</div>
+</div>
 
 
 <div class="project-wrap">
 <span class="project-title"><b>Online Fire Management System </b>| 2024 (University) </span>
+<button class="toggle-btn" aria-expanded="false" aria-controls="project1-content" onclick="toggleExpand(this)">Expand</button>
+<div id="project1-content" style="margin-top:10px;">
   <ul>
     <li>Designed an online fire management system for a university and proposed an implementation strategy, focusing on enhancing fire safety and response efficiency.</li>
     <li>Utilized Visio and Bubble to develop comprehensive UML diagrams (use case, activity, domain class, layer class, sequence) and intuitive user interfaces.</li>
@@ -103,10 +117,14 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 <span class="proj-skill-btn"> Bubble </span>
 <span class="proj-skill-btn"> Jira </span>
 <span class="proj-skill-btn"> Microsoft Team Planner </span>
+</div>
+</div>
 
 
 <div class="project-wrap">
 <span class="project-title"><b>Educational Training Web Application </b>| 2024 (University) </span>
+<button class="toggle-btn" aria-expanded="false" aria-controls="project1-content" onclick="toggleExpand(this)">Expand</button>
+<div id="project1-content" style="margin-top:10px;">
   <ul>
     <li>Designed user interfaces for a role-based website using Figma, ensuring a seamless and intuitive user experience.</li>
     <li>Developed a website with distinct user and admin functionalities: users could view courses, price updates, track learning paths, progress, achievements, and take quizzes, while admins managed content access and user permissions.</li>
@@ -118,6 +136,8 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 <span class="proj-skill-btn"> Figma </span>
 <span class="proj-skill-btn"> Asana </span>
 <span class="proj-skill-btn"> Jira </span>
+</div>
+</div>
 <hr style="border-top: 1px solid #D6D6D6; margin: 40px 0;">
 
 ## 🔧 SKILLSET

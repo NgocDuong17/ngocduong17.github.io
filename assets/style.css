@@ -40,12 +40,13 @@ h3 {
 
 /* === Links and Icons === */
 a {
-  color: #80ccff;
+  color: #3F8DC4;
   text-decoration: none;
 }
 a:hover {
   text-decoration: none;
-  color: #99d6ff;
+  color: #57A4D9;
+  font-weight: normal;
 }
 
 /* === Layout and Sections === */

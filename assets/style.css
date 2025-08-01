@@ -129,7 +129,7 @@ section {
   display: inline-block;
   padding: 6px 14px;
   margin: 4px 8px 4px 0;
-  background-color: #98BF8E;  
+  background-color: #A3C799;  
   color: white;
   text-decoration: none;
   border: none;
@@ -144,12 +144,12 @@ section {
 }
 
 .project-wrap {
-  position: relative;
   background: #f8f9fa;
   border-left: 6px solid #EBD3CC;
   padding: 16px 20px;
   margin: 16px 0;
   border-radius: 10px;
+  justify-content: center;
   color: #333;
   line-height: 1.6;
   box-shadow: 0 2px 6px rgba(0,0,0,0.05);
@@ -173,7 +173,7 @@ section {
   position: absolute;
   bottom: 10px;
   right: 20px;
-  background-color: #C9A595;
+  background-color: #99BAC7;
   color: white;
   border: none;
   border-radius: 6px;
@@ -181,10 +181,11 @@ section {
   font-size: 0.9em;
   cursor: pointer;
   user-select: none;
+  border-radius: 10px;
   transition: background-color 0.3s ease;
 }
 .toggle-btn:hover {
-  background-color: #E8C7BC;
+  background-color: #BCDDE8;
 }
 
 .achievement{

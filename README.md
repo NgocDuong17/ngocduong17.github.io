@@ -61,18 +61,23 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 <hr style="border-top: 1px solid #D6D6D6; margin: 40px 0;">
 
 ## 🚀 PROJECTS
-### Enterprise BI Pipeline: ETL with SSIS, OLAP Cube with SSAS, and Live Power BI Dashboard | 2025 | <a href="https://github.com/NgocDuong17/SQL-BI-Dashboard-Project/blob/master/README.md" target="_blank"> Link </a>
+<details>
+  <summary><strong>Enterprise BI Pipeline: ETL with SSIS, OLAP Cube with SSAS, and Live Power BI Dashboard | 2025</strong></summary>
+
+- <a href="https://github.com/NgocDuong17/SQL-BI-Dashboard-Project/blob/master/README.md" target="_blank">Link to Project</a>
 - ETL with SSIS: Designed and implemented an ETL pipeline in Visual Studio to extract, transform, and load structured data into a SQL Server data warehouse.
 - Cube Creation with SSAS: Built a multidimensional OLAP cube to support analytical queries using measures, dimensions, and hierarchies.
 - Live Data Connection: Connected Power BI to the SSAS cube through Microsoft SQL Server Management Studio (SSMS) using a live connection for real-time insights.
-- Power BI Dashboard: Developed a dynamic, interactive Power BI dashboard with drill-down capabilities and custom visualizations for business users. <br/>
+- Power BI Dashboard: Developed a dynamic, interactive Power BI dashboard with drill-down capabilities and custom visualizations for business users.
+
 <span class="proj-skill-btn"> Power BI </span>
 <span class="proj-skill-btn"> ETL Tools </span>
-<span class="proj-skill-btn"> SQL Server Analysis Services (SSAS) </span>
-<span class="proj-skill-btn"> Microsoft SQL Server </span>
-<span class="proj-skill-btn"> SQL Server Integration Services (SSIS) </span>
+<span class="proj-skill-btn"> SSAS </span>
+<span class="proj-skill-btn"> SQL Server </span>
+<span class="proj-skill-btn"> SSIS </span>
 <span class="proj-skill-btn"> Visual Studio </span>
 <span class="proj-skill-btn"> Data Warehousing </span>
+</details>
 
 
 ### Pedestrian Patterns on Major Sydney Street | 2025 | <a href="https://github.com/NgocDuong17/Pedestrian-Patterns-on-Major-Sydney-Streets/blob/main/README.md" target="_blank"> Link </a>

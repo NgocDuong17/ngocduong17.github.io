@@ -61,8 +61,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 <hr style="border-top: 1px solid #D6D6D6; margin: 40px 0;">
 
 ## 🚀 PROJECTS
-<span 
-  >
+<span class="project-wrap">
 Enterprise BI Pipeline: ETL with SSIS, OLAP Cube with SSAS, and Live Power BI Dashboard | 2025 | <a href="https://github.com/NgocDuong17/SQL-BI-Dashboard-Project/blob/master/README.md" target="_blank"> Link </a>
 - ETL with SSIS: Designed and implemented an ETL pipeline in Visual Studio to extract, transform, and load structured data into a SQL Server data warehouse.
 - Cube Creation with SSAS: Built a multidimensional OLAP cube to support analytical queries using measures, dimensions, and hierarchies.
@@ -157,45 +156,79 @@ Bachelor of Data Science
         <a href="https://learn.microsoft.com/api/credentials/share/en-us/ThiBaoNgocDuong-2776/535705988275A982?sharingId=4FC93E78C76DC4B8" target="_blank">
       Power BI Data Analyst Associate (2025) | Microsoft </a>
       </summary>
-    dhdhd
-  </details>
-<ul>
-  
-  
-  <li>
-    <a href="https://learn.microsoft.com/api/credentials/share/en-us/ThiBaoNgocDuong-2776/535705988275A982?sharingId=4FC93E78C76DC4B8" target="_blank">
-      Power BI Data Analyst Associate (2025) | Microsoft
-    </a>
-  </li>
-  <li>
-    <a href="https://learn.microsoft.com/api/credentials/share/en-us/ThiBaoNgocDuong-2776/F7D7E910F1648308?sharingId=4FC93E78C76DC4B8" target="_blank">
-      Microsoft Azure Fundamentals (2025) | Microsoft
-    </a>
-  </li>
-  <li>
-    <a href="https://learn.microsoft.com/api/credentials/share/en-us/ThiBaoNgocDuong-2776/7221CCA12ABFF2D4?sharingId=4FC93E78C76DC4B8" target="_blank">
+  Demonstrated proficiency in preparing, modeling, visualizing, and analyzing data using Microsoft Power BI. Skilled in leveraging Power Query and DAX to 
+  deliver actionable insights and create interactive reports and dashboards. Collaborated with business stakeholders to meet data analysis requirements and supported data-driven decision-making processes
+</details>
+
+<details>
+      <summary>
+        <a href="https://learn.microsoft.com/api/credentials/share/en-us/ThiBaoNgocDuong-2776/F7D7E910F1648308?sharingId=4FC93E78C76DC4B8" target="_blank">
+      Microsoft Azure Fundamentals (2025) | Microsoft </a>
+      </summary>
+  Demonstrated foundational knowledge of cloud concepts and core Azure services, including compute, networking, storage, and Azure governance tools. Equipped to describe Azure architecture, pricing models, and security features, serving as a solid starting point for a career in Azure
+</details>
+
+<details>
+      <summary>
+        <a href="https://learn.microsoft.com/api/credentials/share/en-us/ThiBaoNgocDuong-2776/7221CCA12ABFF2D4?sharingId=4FC93E78C76DC4B8" target="_blank">
       Microsoft Certified: Fabric Analytics Engineer Associate (2025) | Microsoft
     </a>
-  </li>
-  <li>
-    <a href="https://www.hackerrank.com/certificates/iframe/3e815e933527" target="_blank">
+      </summary>
+  Demonstrated expertise in designing and implementing data solutions using Microsoft Fabric. Skilled in integrating data from multiple sources, transforming data for analytical purposes, and deploying data models to support business intelligence and decision-making processes. Proficient in utilizing Fabric's tools and services to manage data pipelines, data lakes, and data warehouses.
+</details>
+
+<details>
+      <summary>
+        <a href="https://www.hackerrank.com/certificates/iframe/3e815e933527" target="_blank">
       SQL (Advanced) Certificate (2025) | HackerRank
     </a>
-  </li>
-  <li>
-    <a href="https://www.coursera.org/account/accomplishments/certificate/4QHB3LB8WCT6" target="_blank">
+      </summary>
+  Validated expertise in advanced SQL techniques through a timed, one-hour HackerRank assessment. Demonstrated mastery in the following key areas:
+  <ul>
+  <li>Complex joins, set operations (UNION, INTERSECT, EXCEPT), and correlated subqueries</li>
+  <li>Query optimization and execution plan analysis for performance tuning</li>
+  <li>Data modeling strategies, constraints, indexing, and prepared statements</li>
+  <li>Utilization of Common Table Expressions (CTEs), recursive queries, and advanced window functions (e.g. ROW_NUMBER, RANK, DENSE_RANK, LEAD, LAG)</li>
+  </ul>
+</details>
+
+<details>
+      <summary>
+        <a href="https://www.coursera.org/account/accomplishments/certificate/4QHB3LB8WCT6" target="_blank">
       Application of Data Analysis in Business with R Programming | Coursera
     </a>
-  </li>
-  <li>
-    <a href="https://www.coursera.org/account/accomplishments/certificate/HFXQT6LKKFNE" target="_blank">
-      Customer Reports in Google Analytics | Coursera
-    </a>
-  </li>
-  <li>
-    <a href="https://www.coursera.org/account/accomplishments/certificate/3FXVQNQWV9WZ" target="_blank">
+      </summary>
+  <ul>
+    <li>Used R and RStudio to manipulate and visualize real-world business data, focusing on pandemic-era customer trends</li>
+    <li>Applied descriptive statistics, trend analysis, correlation, and visual tools—including scatter plots, histograms, line plots, and circular plots—to extract actionable insights</li>
+    <li>Delivered analysis that supports strategic decision-making and resource allocation under uncertainty</li>
+  </ul>
+</details>
+
+<details>
+      <summary>
+        <a href="https://www.coursera.org/account/accomplishments/certificate/HFXQT6LKKFNE" target="_blank">
+      Customer Reports in Google Analytics | Coursera </a>
+      </summary>
+  <ul>
+    <li>Designed and built three custom Google Analytics reports using multiple approaches</li>
+    <li>Interpreted data outputs to support analytics-driven decision‑making</li>
+    <li>Identified and organized required data fields to tailor reports to business goals</li>
+  </ul>
+</details>
+
+<details>
+      <summary>
+        <a href="https://www.coursera.org/account/accomplishments/certificate/3FXVQNQWV9WZ" target="_blank">
       Excel Fundamental for Data Analysis (2021) | Coursera
     </a>
-  </li>
+      </summary>
+  <ul>
+    <li>Cleaning and preparing data using text, date, lookup, and logical functions in Excel</li>
+    <li>Automating workflows using Named Ranges and Excel Tables</li>
+    <li>Performing data transformation, categorization, and lookup tasks (e.g., IF, VLOOKUP, INDEX/MATCH)</li>
+  </ul>
+</details>
+
   
-</ul>
+  

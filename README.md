@@ -22,6 +22,8 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 ## 🚀 PROJECTS
 <div class="project-wrap">
 <span class="project-title"><b>Enterprise BI Pipeline and Live Power BI Dashboard </b> | 2025 | <a href="https://github.com/NgocDuong17/SQL-BI-Dashboard-Project/blob/master/README.md" target="_blank"> Link </a></span>
+<button class="toggle-btn" aria-expanded="false" aria-controls="project1-content" onclick="toggleExpand(this)">Expand</button>
+<div id="project1-content" style="margin-top:10px;">
   <ul>
     <li>Designed and implemented an ETL pipeline in Visual Studio to extract, transform, and load structured data into a SQL Server data warehouse.</li>
     <li>Built a multidimensional OLAP cube to support analytical queries using measures, dimensions, and hierarchies.</li>
@@ -35,6 +37,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 <span class="proj-skill-btn"> SQL Server Integration Services (SSIS) </span>
 <span class="proj-skill-btn"> Visual Studio </span>
 <span class="proj-skill-btn"> Data Warehousing </span>
+</div>
 </div>
 
 
@@ -232,4 +235,13 @@ Bachelor of Data Science
 </details>
 
   
-  
+<script>
+function toggleExpand(button) {
+  const wrap = button.parentElement;
+  wrap.classList.toggle('expanded');
+  const expanded = wrap.classList.contains('expanded');
+  button.textContent = expanded ? 'Collapse' : 'Expand';
+  button.setAttribute('aria-expanded', expanded);
+}
+</script>
+

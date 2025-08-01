@@ -10,13 +10,15 @@ body {
   background-repeat: no-repeat;*/
   background: #fce5e1;
   background: linear-gradient(90deg, rgba(252, 229, 225, 1) 0%, rgba(231, 255, 214, 1) 100%);
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 0px;
+  padding-right: 0px;
   margin-top: 30px;
   margin-right: 20px;
   margin-left: 20px;
 }
-
+section.content {
+  width: 100% !important;
+}
 header h1 {
   display: none;
 }

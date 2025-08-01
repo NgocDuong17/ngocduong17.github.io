@@ -168,6 +168,24 @@ section {
   margin-bottom: 12px;
 }
 
+.toggle-btn {
+  position: absolute;
+  top: 16px;
+  right: 20px;
+  background-color: #C9A595;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 4px 10px;
+  font-size: 0.9em;
+  cursor: pointer;
+  user-select: none;
+  transition: background-color 0.3s ease;
+}
+.toggle-btn:hover {
+  background-color: #E8C7BC;
+}
+
 .achievement{
   margin-bottom: 5px;
 }

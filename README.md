@@ -5,6 +5,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 <hr style="border-top: 1px solid #D6D6D6; margin: 40px 0;">
 
 ## 🧾 EXPERIENCES
+<div class='exp-wrap'>
 <div class ='exp-box'>
   <h2>Research Analyst Internship</h2>
   <div class='exp-side-info'>
@@ -32,7 +33,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
     <li>Maintained and updated stock records, ensuring data accuracy in inventory systems.</li>
   </ul>
 </div>
-
+</div>
 <hr style="border-top: 1px solid #D6D6D6; margin: 40px 0;">
 
 

@@ -144,6 +144,12 @@ section {
   transition: max-height 0.3s ease;
 }
 
+.exp-description{
+  display: flex;
+  justify-content: space-around;
+  color: gray;
+}
+
 /*--------------------------------------------------------- PROJECT ---------------------------------------------------------------*/
 .proj-skill-btn {
   display: inline-block;

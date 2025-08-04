@@ -21,7 +21,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 ## 🚀 PROJECTS
 <div class="project-wrap">
 <div class="project-preview">
-  <img width="716" height="341" alt="image" src="https://github.com/user-attachments/assets/99a814e5-3219-413c-9631-c0b1f5526afd" />
+  <img width="316" height="141" alt="image" src="https://github.com/user-attachments/assets/99a814e5-3219-413c-9631-c0b1f5526afd" />
   <div class='project-heading'>
   <p class='desc'> Academic Project | 2025</p>
   <p class='title'><b>Enterprise ETL Pipeline and Live PowerBI </b>

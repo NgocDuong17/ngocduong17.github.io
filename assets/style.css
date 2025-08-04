@@ -182,6 +182,7 @@ section {
   height: 120;
   object-position: center;  /* show image center when cropped */
   display: block;
+  object-fit: none;
   transform-origin: center; /* scale from center */
   transition: transform 0.3s ease-out;
   border-radius: 8px;

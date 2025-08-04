@@ -189,6 +189,9 @@ section {
   margin-right: auto;
   transform: translate(-50%, –50%) scale(1);
 }
+.project-heading{
+  margin-top: 10px;
+}
 
 .title{
   margin-bottom: 10px;
@@ -197,8 +200,7 @@ section {
 .desc{
   font-size: 0.8em;
   color: gray;
-  font-weight: 400;
-  margin-bottom: -5px;
+  font-weight: 430;
 }
 
 .toggle-btn {

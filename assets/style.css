@@ -144,12 +144,10 @@ section {
   color: #333;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
   
-  width: 500px;
-  height: 600px;
+  width: 340px;
+  height: 47px;
 
   display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
   flex: 1;
 
   padding: 15px 20px 0 20px;

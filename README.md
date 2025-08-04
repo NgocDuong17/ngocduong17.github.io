@@ -84,7 +84,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
     </span>
     <div class='project-heading'>
       <div class='desc'> 
-        <p> <img class='icon-personal' src="https://s2.svgbox.net/hero-solid.svg?ic=user-circle&color=6094af" width="32" height="32"> Personal Project</p> 
+        <p> <img class='icon-personal' src="https://s2.svgbox.net/hero-solid.svg?ic=user&color=6094af" width="32" height="32"> Personal Project</p> 
         <p>2025</p>
       </div>
       <p class='title'><b>Pedestrian Patterns on Major Sydney Street</b>
@@ -119,7 +119,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
     </span>
     <div class='project-heading'>
       <div class='desc'> 
-        <p> <img class='icon-personal' src="https://s2.svgbox.net/hero-solid.svg?ic=user-circle&color=6094af" width="32" height="32"> Personal Project</p> 
+        <p> <img class='icon-personal' src="https://s2.svgbox.net/hero-solid.svg?ic=user&color=6094af" width="32" height="32"> Personal Project</p> 
         <p>May 2025</p>
       </div>
       <p class='title'><b>Plant Co. YTD vs PYTD Performance Analysis</b>

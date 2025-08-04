@@ -51,6 +51,7 @@
 <h1> 🚀 PROJECTS </h1>
 <br/>
 <!-- Project 1 -->
+<div class='project-biggest-wrap'>
 <div class="project-wrap">
 <div class="project-preview">
   <span class='image-frame'>
@@ -257,6 +258,7 @@
 <span class="proj-skill-btn"> Figma </span>
 <span class="proj-skill-btn"> Asana </span>
 <span class="proj-skill-btn"> Jira </span>
+</div>
 </div>
 </div>
 <hr style="border-top: 1px solid #D6D6D6; margin: 40px 0;">

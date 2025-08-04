@@ -177,9 +177,13 @@ section {
 }
 
 .project-title img {
-  display: block;
+  /*display: block;
   margin-left: auto;
-  margin-right: auto;
+  margin-right: auto;*/
+  width: 400px;        /* or 100%, auto, etc. */
+  height: 200px;       /* must explicitly set dimensions */
+  object-fit: none;    /* prevents scaling; overflows are cropped */
+  object-position: center;
 }
 
 .title{

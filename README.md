@@ -41,7 +41,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
   </div>
   <p class='title'><b>Enterprise ETL Pipeline and Live PowerBI </b>
     
-  <a href="https://github.com/NgocDuong17/SQL-BI-Dashboard-Project/blob/master/README.md" target="_blank"> 🔗 </a>
+  <a href="https://github.com/NgocDuong17/SQL-BI-Dashboard-Project/blob/master/README.md" target="_blank"> ↗️ </a>
   </p>
   </div>
 </div>

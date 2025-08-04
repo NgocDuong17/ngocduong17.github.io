@@ -22,7 +22,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 <div class="project-wrap">
 <div class="project-preview">
   <img width="716" height="341" alt="image" src="https://github.com/user-attachments/assets/99a814e5-3219-413c-9631-c0b1f5526afd" />
-  <div class='project-heading>
+  <div class='project-heading'>
   <p class='desc'> Academic Project | 2025</p>
   <p class='title'><b>Enterprise ETL Pipeline and Live PowerBI </b>
   <a href="https://github.com/NgocDuong17/SQL-BI-Dashboard-Project/blob/master/README.md" target="_blank"> 🔗 </a>
@@ -36,10 +36,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
     <li>Built a multidimensional OLAP cube to support analytical queries using measures, dimensions, and hierarchies.</li>
     <li>Connected Power BI to the SSAS cube through Microsoft SQL Server Management Studio (SSMS) using a live connection for real-time insights.</li>
     <li>Developed a dynamic, interactive Power BI dashboard with drill-down capabilities and custom visualizations for business users.</li>
-    <li>Designed and implemented an ETL pipeline in Visual Studio to extract, transform, and load structured data into a SQL Server data warehouse.</li>
-    <li>Built a multidimensional OLAP cube to support analytical queries using measures, dimensions, and hierarchies.</li>
-    <li>Connected Power BI to the SSAS cube through Microsoft SQL Server Management Studio (SSMS) using a live connection for real-time insights.</li>
-    <li>Developed a dynamic, interactive Power BI dashboard with drill-down capabilities and custom visualizations for business users.</li>
+    
   </ul>
 <span class="proj-skill-btn"> Power BI </span>
 <span class="proj-skill-btn"> ETL Tools </span>

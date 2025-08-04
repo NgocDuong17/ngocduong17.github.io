@@ -10,7 +10,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
   <div class='exp-side-info'>
     <p> <img class='icon-company' src="https://s2.svgbox.net/hero-solid.svg?ic=office-building&color=6094af" width="32" height="32"> KOSEC - Kodari Securities</p>
     <p> <img class='icon-location' src="https://s2.svgbox.net/hero-solid.svg?ic=location-marker&color=6094af" width="32" height="32"> North Sydney</p>
-    <p> <img class='icon-time' src="https://s2.svgbox.net/weather-icons.svg?ic=time-3&color=000" width="32" height="32"> Jan - May 2025</p>
+    <p> <img class='icon-time' src="https://s2.svgbox.net/hero-solid.svg?ic=cog&color=6094af" width="32" height="32"> Jan - May 2025</p>
   </div>
   <ul>
     <li>Developed presentations to communicate market trends, supporting strategic decision-making for investment opportunities.</li>
@@ -24,7 +24,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
   <div class='exp-side-info'>
     <p> <img class='icon-company' src="https://s2.svgbox.net/hero-solid.svg?ic=office-building&color=6094af" width="32" height="32"> Chemist Warehouse</p>
     <p> <img class='icon-location' src="https://s2.svgbox.net/hero-solid.svg?ic=location-marker&color=6094af" width="32" height="32">Newcastle</p>
-    <p> <img class='icon-time' src="https://s2.svgbox.net/weather-icons.svg?ic=time-3&color=000" width="32" height="32"> Dec 2024 - Current</p>
+    <p> <img class='icon-time' src="https://s2.svgbox.net/hero-solid.svg?ic=cog&color=6094af" width="32" height="32"> Dec 2024 - Current</p>
   </div>
   <ul>
     <li>Executed planograms and optimized product placement based on store analytics.</li>
@@ -46,7 +46,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
   </span>
   <div class='project-heading'>
   <div class='desc'> 
-    <p>Academic Project</p> 
+    <p> <img class='icon-academic' src="https://s2.svgbox.net/hero-solid.svg?ic=academic-cap&color=6094af" width="32" height="32"> Academic Project</p> 
     <p>2025</p>
   </div>
   <p class='title'><b>Enterprise ETL Pipeline and Live PowerBI </b>
@@ -84,7 +84,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
     </span>
     <div class='project-heading'>
       <div class='desc'> 
-        <p>Personal Project</p> 
+        <p> <img class='icon-personal' src="https://s2.svgbox.net/hero-solid.svg?ic=user-circle&color=6094af" width="32" height="32"> Personal Project</p> 
         <p>2025</p>
       </div>
       <p class='title'><b>Pedestrian Patterns on Major Sydney Street</b>
@@ -119,7 +119,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
     </span>
     <div class='project-heading'>
       <div class='desc'> 
-        <p>Personal Project</p> 
+        <p> <img class='icon-personal' src="https://s2.svgbox.net/hero-solid.svg?ic=user-circle&color=6094af" width="32" height="32"> Personal Project</p> 
         <p>May 2025</p>
       </div>
       <p class='title'><b>Plant Co. YTD vs PYTD Performance Analysis</b>
@@ -155,7 +155,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
     </span>
     <div class='project-heading'>
       <div class='desc'> 
-        <p>Academic Project</p> 
+        <p> <img class='icon-academic' src="https://s2.svgbox.net/hero-solid.svg?ic=academic-cap&color=6094af" width="32" height="32"> Academic Project</p> 
         <p>2024</p>
       </div>
       <p class='title'><b>Compliance Insights & Incentive Analysis</b>
@@ -188,7 +188,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
     </span>
     <div class='project-heading'>
       <div class='desc'> 
-        <p>Academic Project</p> 
+        <p> <img class='icon-academic' src="https://s2.svgbox.net/hero-solid.svg?ic=academic-cap&color=6094af" width="32" height="32"> Academic Project</p> 
         <p>2024</p>
       </div>
       <p class='title'><b>Online Fire Management System</b>
@@ -222,7 +222,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
     </span>
     <div class='project-heading'>
       <div class='desc'> 
-        <p>Academic Project</p> 
+        <p> <img class='icon-academic' src="https://s2.svgbox.net/hero-solid.svg?ic=academic-cap&color=6094af" width="32" height="32"> Academic Project</p> 
         <p>Sep - Nov 2024</p>
       </div>
       <p class='title'><b>Wizer App - Educational Training Web Application</b>

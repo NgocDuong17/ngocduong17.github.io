@@ -173,21 +173,22 @@ section {
   font-size: 1.3em;
   color: #555;
   font-weight: 500;
-  padding-bottom: 20px
+  padding-bottom: 20px;
+  overflow: hidden;
 }
 
 .project-preview img {
-  /*display: block;
-  margin-left: auto;
-  margin-right: auto;*/
-  width: 400px;        /* or 100%, auto, etc. */
-  height: 200px;       /* must explicitly set dimensions */
-  object-fit: none;    /* prevents scaling; overflows are cropped */
-  /*object-position: center;*/
+  width: 100%;
+  height: 100%;
+  object-fit: cover;        /* fill the container, preserving aspect ratio */
+  object-position: center;  /* show image center when cropped */
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  transform: translate(-50%, –50%) scale(1);
+  transform-origin: center; /* scale from center */
+  transition: transform 0.3s ease-out;
+}
+
+.project-preview img:hover{
+  transform: scale(1.1);
 }
 .project-heading{
   margin-top: 10px;
@@ -195,6 +196,7 @@ section {
 
 .title{
   margin-bottom: 10px;
+  margin-top: -5px;
 }
 
 .desc{

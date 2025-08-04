@@ -21,6 +21,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 ## 🚀 PROJECTS
 <div class="project-wrap">
 <span class="project-title">
+  <img width="323" height="227" alt="image" src="https://github.com/user-attachments/assets/ec32a84e-34c8-4699-81cb-654399428e1b" />
   <b>Enterprise ETL Pipeline and Live PowerBI </b>  
   <a href="https://github.com/NgocDuong17/SQL-BI-Dashboard-Project/blob/master/README.md" target="_blank"> 🔗 </a>
   <p> Academic Project | 2025</p>

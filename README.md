@@ -20,7 +20,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 </div>
 
 <div class='exp-box'>
-  <h2>Pharmacy Assistant/h2>
+  <h2>Pharmacy Assistant</h2>
   <div class='exp-side-info'>
     <p>Chemist Warehouse</p>
     <p>Newcastle</p>

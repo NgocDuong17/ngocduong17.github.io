@@ -22,7 +22,9 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 <br/>
 <div class="project-wrap">
 <div class="project-preview">
+  <span class='image-frame'>
   <img width="316" height="141" alt="image" src="https://github.com/user-attachments/assets/99a814e5-3219-413c-9631-c0b1f5526afd" />
+  </span>
   <div class='project-heading'>
   <div class='desc'> 
     <p>Academic Project</p> 

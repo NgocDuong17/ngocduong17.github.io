@@ -17,13 +17,12 @@ body {
 }
 .profile-column {
   float: left;
-  width: 20%;
-  padding-right: 20px;
+  width: 10%;
 }
 
 .content-column {
   float: left;
-  width: 80%;
+  width: 90%;
 }
 
 .page-wrapper::after {

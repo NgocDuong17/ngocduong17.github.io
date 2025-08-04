@@ -180,7 +180,6 @@ section {
 .project-preview img {
   width: 400;
   height: 120;
-  object-fit: cover;        /* fill the container, preserving aspect ratio */
   object-position: center;  /* show image center when cropped */
   display: block;
   transform-origin: center; /* scale from center */

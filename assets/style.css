@@ -179,7 +179,7 @@ section {
 .image-frame{
   overflow: hidden;
   width: 550;
-  height: 120;
+  height: 60;
 }
 .image-frame img {
   width: 100%;

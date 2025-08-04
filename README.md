@@ -36,6 +36,10 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
     <li>Built a multidimensional OLAP cube to support analytical queries using measures, dimensions, and hierarchies.</li>
     <li>Connected Power BI to the SSAS cube through Microsoft SQL Server Management Studio (SSMS) using a live connection for real-time insights.</li>
     <li>Developed a dynamic, interactive Power BI dashboard with drill-down capabilities and custom visualizations for business users.</li>
+    <li>Designed and implemented an ETL pipeline in Visual Studio to extract, transform, and load structured data into a SQL Server data warehouse.</li>
+    <li>Built a multidimensional OLAP cube to support analytical queries using measures, dimensions, and hierarchies.</li>
+    <li>Connected Power BI to the SSAS cube through Microsoft SQL Server Management Studio (SSMS) using a live connection for real-time insights.</li>
+    <li>Developed a dynamic, interactive Power BI dashboard with drill-down capabilities and custom visualizations for business users.</li>
   </ul>
 <span class="proj-skill-btn"> Power BI </span>
 <span class="proj-skill-btn"> ETL Tools </span>

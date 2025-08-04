@@ -211,6 +211,7 @@ section {
   transform-origin: center; /* scale from center */
   transition: transform 0.2s ease-out;
   border-radius: 8px;
+  border: 1px solid #5c5d5e;
 }
 
 .image-frame img:hover{

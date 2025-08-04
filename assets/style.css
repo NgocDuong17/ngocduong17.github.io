@@ -148,10 +148,16 @@ section {
   padding-right:20px;
   margin-top: 10px;
   margin-bottom: 20px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 
 .exp-box{
   margin-top:-10px;
+  width: 400px;  /* width and height of the card*/
+  height: 600px;
 }
 
 .exp-side-info{

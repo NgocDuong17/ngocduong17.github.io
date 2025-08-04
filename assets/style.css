@@ -178,7 +178,7 @@ section {
 }
 
 .project-preview img {
-  width: 400;
+  width: 550;
   height: 120;
   object-position: center;  /* show image center when cropped */
   display: block;

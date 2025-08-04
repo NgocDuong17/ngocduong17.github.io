@@ -179,10 +179,13 @@ section {
 .image-frame{
   overflow: hidden;
   width: 520px;
-  height: 80px;
+  height: 40px;
 }
 .image-frame img {
   width: 100%;
+  top:0;
+  right:0;
+  left:0;
   object-position: center;  /* show image center when cropped */
   display: block; 
   object-fit: cover;     /* scales image down & crops excess */

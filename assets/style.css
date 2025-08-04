@@ -62,10 +62,6 @@ h3 {
   color: #555;
 }
 
-.heading{
-  font-weight: 600;
-  font-size: 2em;
-}
 
 /* === Links and Icons === */
 a {
@@ -109,6 +105,24 @@ section {
   font-weight: 500;
   color: #333;
 }
+
+/*--------------------------------------------------------- HEADING/HIGHTLIGHT ---------------------------------------------------------------*/
+
+.heading-wrap{
+  display: flex;
+}
+
+.heading, .heading-profile{
+  flex-basis: 50%;
+}
+
+.heading h1{
+  font-weight: 600;
+  font-size: 2em;
+}
+
+
+
 /*--------------------------------------------------------- SKILL ---------------------------------------------------------------*/
 
 .skill-btn {

@@ -6,7 +6,12 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 
 ## 🧾 EXPERIENCES
 <div class ='exp-box'>
-  <h2>Research Analyst Internship | KOSEC - Kodari Securities | Jan - May 2025</h2>
+  <h2>Research Analyst Internship</h2>
+  <div class='exp-side-info'>
+    <p>KOSEC - Kodari Securities</p>
+    <p>North Sydney</p>
+    <p>Jan - May 2025</p>
+  </div>
   <ul>
     <li>Developed presentations to communicate market trends, supporting strategic decision-making for investment opportunities.</li>
     <li>Summarized key market insights from financial news sources into daily, weekly, and monthly reports to provide stakeholders with actionable intelligence.</li>
@@ -15,7 +20,12 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 </div>
 
 <div class='exp-box'>
-  <h2>Pharmacy Assistant | Chemist Warehouse | Dec 2024 - Current</h2>
+  <h2>Pharmacy Assistant/h2>
+  <div class='exp-side-info'>
+    <p>Chemist Warehouse</p>
+    <p>Newcastle</p>
+    <p>Dec 2024 - Current</p>
+  </div>
   <ul>
     <li>Executed planograms and optimized product placement based on store analytics.</li>
     <li>Supported promotional campaigns with setup, monitoring, and customer engagement tracking.</li>

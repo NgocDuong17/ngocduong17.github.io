@@ -3,18 +3,54 @@
 #description: text below image
 #theme: jekyll-theme-minimal
 
-theme: jekyll-theme-minimal
-title: 
-logo: /assets/adoria-profile.jpg
-description: Master's Student in IT | Business Analytics | Data Science
-show_downloads: false
-markdown: kramdown
+
+
+remote_theme: dieghernan/chulapa
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-gist
-  - jekyll-paginate
-  - jekyll-include-cache
-include: ["assets/style.css"]
+
+  # Site settings
+title: “Your Name or Title”
+subtitle: “Data Science · Business Analytics · Portfolio”
+description: “Master’s Student in IT — Projects and Blog”
+logo: "/assets/adoria-profile.jpg"
+
+
+# Navbar
+navbar:
+  style: dual            # fab, classic, or dual
+  expand: md
+  brand:
+    title: Home
+    img: "/assets/logo-30px.png"
+    url: "/"
+  nav:
+    - title: Projects
+      url: /projects/
+    - title: Blog
+      url: /blog/
+
+# Footer
+footer:
+  links:
+    - label: “GitHub”
+      icon: “fab fa-github”
+      url: https://github.com/NgocDuong17
+    - label: “LinkedIn”
+      icon: “fab fa-linkedin”
+      url: https://www.linkedin.com/in/ngocduong17/
+  copyright:
+    "&copy; {{ 'now' | date: '%Y' }} Your Name"
+  
+author:
+  name: “Thi Bao Ngoc Duong”
+  avatar: "/assets/adoria-profile.jpg"
+  location: “Sydney, AU”
+  links:
+    - url: https://x.com/.store
+      icon: "fab fa-twitter"
+      label: "X @you"

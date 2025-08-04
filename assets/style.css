@@ -173,18 +173,23 @@ section {
   font-size: 1.3em;
   color: #555;
   font-weight: 500;
-  margin-bottom: 12px;
   padding-bottom: 20px
 }
+
 .project-title img {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
+.title{
+  margin-bottom: 12px;
+}
+
 .desc{
   font-size: 1em;
   color: gray;
+  font-weight: 400;
 }
 
 .toggle-btn {

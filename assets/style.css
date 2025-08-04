@@ -203,6 +203,7 @@ section {
   font-size: 0.8em;
   color: gray;
   font-weight: 430;
+  justify-content: space-between;
 }
 
 .toggle-btn {

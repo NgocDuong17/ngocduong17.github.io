@@ -152,7 +152,7 @@ section {
 
 .project-wrap {
   background: #f8f9fa;
-  border-left: 6px solid #A3C799;
+  /*border-left: 6px solid #A3C799;*/
   padding: 16px 20px;
   margin: 16px 0;
   border-radius: 10px;
@@ -161,7 +161,7 @@ section {
   line-height: 1.6;
   box-shadow: 0 2px 6px rgba(0,0,0,0.05);
   overflow: hidden;
-  max-height: 5.4em; /*the preview*/
+  max-height: 6em; /*the preview*/
   position: relative;
   transition: max-height 0.3s ease;
 }
@@ -183,9 +183,6 @@ section {
 }
 .image-frame img {
   width: 100%;
-  top:0;
-  right:0;
-  left:0;
   object-position: center;  /* show image center when cropped */
   display: block; 
   object-fit: cover;     /* scales image down & crops excess */
@@ -195,7 +192,7 @@ section {
 }
 
 .image-frame img:hover{
-  transform: scale(1.1);
+  transform: scale(1.03);
 }
 .project-heading{
   margin-top: 10px;

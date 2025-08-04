@@ -8,9 +8,9 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 <div class ='exp-box'>
   <h2>Research Analyst Internship</h2>
   <div class='exp-side-info'>
-    <p>KOSEC - Kodari Securities</p>
-    <p>North Sydney</p>
-    <p>Jan - May 2025</p>
+    <p> <img class='icon-company' src="https://s2.svgbox.net/hero-solid.svg?ic=office-building&color=6094af" width="32" height="32"> KOSEC - Kodari Securities</p>
+    <p> <img class='icon-location' src="https://s2.svgbox.net/hero-solid.svg?ic=location-marker&color=6094af" width="32" height="32"> North Sydney</p>
+    <p> <img class='icon-time' src="https://s2.svgbox.net/weather-icons.svg?ic=time-3&color=000" width="32" height="32"> Jan - May 2025</p>
   </div>
   <ul>
     <li>Developed presentations to communicate market trends, supporting strategic decision-making for investment opportunities.</li>
@@ -22,9 +22,9 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 <div class='exp-box'>
   <h2>Pharmacy Assistant</h2>
   <div class='exp-side-info'>
-    <p>Chemist Warehouse</p>
-    <p>Newcastle</p>
-    <p>Dec 2024 - Current</p>
+    <p> <img class='icon-company' src="https://s2.svgbox.net/hero-solid.svg?ic=office-building&color=6094af" width="32" height="32"> Chemist Warehouse</p>
+    <p> <img class='icon-location' src="https://s2.svgbox.net/hero-solid.svg?ic=location-marker&color=6094af" width="32" height="32">Newcastle</p>
+    <p> <img class='icon-time' src="https://s2.svgbox.net/weather-icons.svg?ic=time-3&color=000" width="32" height="32"> Dec 2024 - Current</p>
   </div>
   <ul>
     <li>Executed planograms and optimized product placement based on store analytics.</li>

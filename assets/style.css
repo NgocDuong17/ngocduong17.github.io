@@ -132,6 +132,10 @@ section {
   background-color: #E8C7BC; 
 }
 /*--------------------------------------------------------- EXPERIENCE ---------------------------------------------------------------*/
+.exp-wrap{
+  margin-top: 20px;
+}
+
 .exp-box{
   background: #f8f9fa;
   /*border-left: 6px solid #A3C799;*/
@@ -142,7 +146,9 @@ section {
   max-height: 700px; /*the preview*/
   position: relative;
   transition: max-height 0.3s ease;
-  padding: 10px 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 15px
   margin-top: 20px;
 }
 
@@ -285,7 +291,7 @@ section {
 /*--------------------------------------------------------- ICONNNNNNNNNNNNNNNNNNNN😿😆🦀 ---------------------------------------------------------------*/
 .icon-link, .icon-company, .icon-location, .icon-location, .icon-time, .icon-academic, .icon-personal{
   margin-bottom: -5px;
-  font-size: 5px;
+  font-size: 1rem;
 }
 
 

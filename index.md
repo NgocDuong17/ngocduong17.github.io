@@ -2,9 +2,17 @@
 <link rel="stylesheet" type="text/css" href="assets/style.css"/>
 
 
+<div class='heading-wrap'> 
+<div class='heading-profile'>
+  <img src='adoria-profile.jpg' />
+</div>
+<div>
+  <h1 class="heading"> Hi, I'm Thi Bao Ngoc <span style="color:#DEA692;">(Adoria)</span> Duong! </h1>
+  <p>Detail-oriented Data Analyst/Business Analyst with expertise in data visualization, data analysis, and programming languages, including Python, SQL, and R. Earned multiple Microsoft certifications (Power BI, Azure,     and Fabric), demonstrating a strong commitment to lifelong learning and staying current with emerging technologies. Adaptable in fast-paced environments, proficient in diverse technologies and languages for efficient     analysis and modeling.
+  </p>
+</div>
 
-<h1 class="heading"> Hi, I'm Thi Bao Ngoc <span style="color:#DEA692;">(Adoria)</span> Duong! </h1>
-Detail-oriented Data Analyst/Business Analyst with expertise in data visualization, data analysis, and programming languages, including Python, SQL, and R. Earned multiple Microsoft certifications (Power BI, Azure, and Fabric), demonstrating a strong commitment to lifelong learning and staying current with emerging technologies. Adaptable in fast-paced environments, proficient in diverse technologies and languages for efficient analysis and modeling.
+</div>
 <hr style="border-top: 1px solid #D6D6D6; margin: 40px 0;">
 
 <h1> 🧾 EXPERIENCES </h1>

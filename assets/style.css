@@ -150,6 +150,10 @@ section {
   margin-bottom: 20px;
 }
 
+.exp-box{
+  margin-top:-10px;
+}
+
 .exp-side-info{
   display: flex;
   align-items: center; 

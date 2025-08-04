@@ -168,7 +168,7 @@ section {
   color: #333;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
   
-  width: 340px;
+  width: 440px;
   height: 470px;
 
   display: flex;
@@ -219,7 +219,7 @@ section {
 .project-wrap {
   background: #f8f9fa;
   /*padding: 16px 20px;*/
-  margin: 20px;
+  margin: 10px;
   border-radius: 10px;
   color: #333;
   line-height: 1.6;
@@ -259,12 +259,11 @@ section {
   object-fit: cover;     /* scales image down & crops excess */
   transform-origin: center; /* scale from center */
   transition: transform 0.2s ease-out;
-  border-radius: 8px;
-  border: 1px solid #5c5d5e;
+  /*border: 1px solid #5c5d5e;*/
 }
 
 .image-frame img:hover{
-  transform: scale(1.05);
+  transform: scale(1.1);
 }
 .project-heading{
   margin-top: 10px;
@@ -277,10 +276,12 @@ section {
   display: flex;
   align-items: center; 
   justify-content: space-between;
+  padding: 16px 20px;
 }
 
 .title{
   margin-top: -10px;
+  padding: 16px 20px;
 }
 
 
@@ -304,6 +305,9 @@ section {
   background-color: #B4D9AB;
 }
 
+.project1-content{
+  padding: 16px 20px;
+}
 /*--------------------------------------------------------- ACHIEVEMENT ---------------------------------------------------------------*/
 
 .achievement{

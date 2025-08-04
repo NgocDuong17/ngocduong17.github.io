@@ -5,16 +5,24 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 <hr style="border-top: 1px solid #D6D6D6; margin: 40px 0;">
 
 ## 🧾 EXPERIENCES
-### Research Analyst Internship | KOSEC - Kodari Securities | Jan - May 2025
-- Developed presentations to communicate market trends, supporting strategic decision-making for investment opportunities.
-- Summarized key market insights from financial news sources into daily, weekly, and monthly reports to provide stakeholders with actionable intelligence.
-- Collected and processed sector data at the beginning and end of each week, utilizing Excel to generate comparative visualizations and identify top and bottom-performing sectors.
-<br/>
+<div class ='exp-box'>
+  <h2>Research Analyst Internship | KOSEC - Kodari Securities | Jan - May 2025</h2>
+  <ul>
+    <li>Developed presentations to communicate market trends, supporting strategic decision-making for investment opportunities.</li>
+    <li>Summarized key market insights from financial news sources into daily, weekly, and monthly reports to provide stakeholders with actionable intelligence.</li>
+    <li>Collected and processed sector data at the beginning and end of each week, utilizing Excel to generate comparative visualizations and identify top and bottom-performing sectors.</li>
+  </ul>
+</div>
 
-###  Pharmacy Assistant | Chemist Warehouse | Dec 2024 - Current
-- Executed planograms and optimized product placement based on store analytics.
-- Supported promotional campaigns with setup, monitoring, and customer engagement tracking.
-- Maintained and updated stock records, ensuring data accuracy in inventory systems.
+<div class='exp-box'>
+  <h2>Pharmacy Assistant | Chemist Warehouse | Dec 2024 - Current</h2>
+  <ul>
+    <li>Executed planograms and optimized product placement based on store analytics.</li>
+    <li>Supported promotional campaigns with setup, monitoring, and customer engagement tracking.</li>
+    <li>Maintained and updated stock records, ensuring data accuracy in inventory systems.</li>
+  </ul>
+</div>
+
 <hr style="border-top: 1px solid #D6D6D6; margin: 40px 0;">
 
 

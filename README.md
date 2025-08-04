@@ -225,7 +225,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
         <p> <img class='icon-academic' src="https://s2.svgbox.net/hero-solid.svg?ic=academic-cap&color=6094af" width="32" height="32"> Academic Project</p> 
         <p>Sep - Nov 2024</p>
       </div>
-      <p class='title'><b>Wizer App - Educational Training Web Application</b>
+      <p class='title'><b>Wizer App - Educational Training Website</b>
         <a href="https://github.com/INFT6900-IT-Project/Wizer-app" target="_blank"> 
           <img class='icon-link' src="https://s2.svgbox.net/hero-solid.svg?ic=external-link&color=6094af" width="32" height="32"> 
         </a>

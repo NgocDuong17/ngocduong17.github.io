@@ -4,7 +4,7 @@
 
 <div class='heading-wrap'> 
 <div class='heading-profile'>
-  <img src='assets/adoria-profile.jpg' width="100" height="200"/>
+  <img src='assets/adoria-profile.jpg' width="230" height="300"/>
 </div>
 <div>
   <h1 class="heading"> Hi, I'm Thi Bao Ngoc <span style="color:#DEA692;">(Adoria)</span> Duong! </h1>

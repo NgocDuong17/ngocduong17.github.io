@@ -9,8 +9,8 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 <div class ='exp-box'>
   <h2>Research Analyst Internship</h2>
   <div class='exp-side-info'>
-    <p> <img class='icon-company' src="https://s2.svgbox.net/hero-solid.svg?ic=office-building&color=6094af" width="32" height="32"> KOSEC - Kodari Securities</p>
-    <p> <img class='icon-location' src="https://s2.svgbox.net/hero-solid.svg?ic=location-marker&color=6094af" width="32" height="32"> North Sydney</p>
+    <p> <img class='icon-company' src="https://s2.svgbox.net/hero-solid.svg?ic=office-building&color=6094af" width="20" height="20"> KOSEC - Kodari Securities</p>
+    <p> <img class='icon-location' src="https://s2.svgbox.net/hero-solid.svg?ic=location-marker&color=6094af" width="15" height="15"> North Sydney</p>
     <p> <img class='icon-time' src="https://s2.svgbox.net/hero-solid.svg?ic=cog&color=6094af" width="32" height="32"> Jan - May 2025</p>
   </div>
   <ul>

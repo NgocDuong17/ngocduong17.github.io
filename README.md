@@ -10,8 +10,8 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
   <h2>Research Analyst Internship</h2>
   <div class='exp-side-info'>
     <p> <img class='icon-company' src="https://s2.svgbox.net/hero-solid.svg?ic=office-building&color=6094af" width="20" height="20"> KOSEC - Kodari Securities</p>
-    <p> <img class='icon-location' src="https://s2.svgbox.net/hero-solid.svg?ic=location-marker&color=6094af" width="15" height="15"> North Sydney</p>
-    <p> <img class='icon-time' src="https://s2.svgbox.net/hero-solid.svg?ic=cog&color=6094af" width="32" height="32"> Jan - May 2025</p>
+    <p> <img class='icon-location' src="https://s2.svgbox.net/hero-solid.svg?ic=location-marker&color=6094af" width="20" height="20"> North Sydney</p>
+    <p> <img class='icon-time' src="https://s2.svgbox.net/hero-solid.svg?ic=cog&color=6094af" width="20" height="20"> Jan - May 2025</p>
   </div>
   <ul>
     <li>Developed presentations to communicate market trends, supporting strategic decision-making for investment opportunities.</li>
@@ -23,9 +23,9 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
 <div class='exp-box'>
   <h2>Pharmacy Assistant</h2>
   <div class='exp-side-info'>
-    <p> <img class='icon-company' src="https://s2.svgbox.net/hero-solid.svg?ic=office-building&color=6094af" width="32" height="32"> Chemist Warehouse</p>
-    <p> <img class='icon-location' src="https://s2.svgbox.net/hero-solid.svg?ic=location-marker&color=6094af" width="32" height="32">Newcastle</p>
-    <p> <img class='icon-time' src="https://s2.svgbox.net/hero-solid.svg?ic=cog&color=6094af" width="32" height="32"> Dec 2024 - Current</p>
+    <p> <img class='icon-company' src="https://s2.svgbox.net/hero-solid.svg?ic=office-building&color=6094af" width="20" height="20"> Chemist Warehouse</p>
+    <p> <img class='icon-location' src="https://s2.svgbox.net/hero-solid.svg?ic=location-marker&color=6094af" width="20" height="20">Newcastle</p>
+    <p> <img class='icon-time' src="https://s2.svgbox.net/hero-solid.svg?ic=cog&color=6094af" width="20" height="20"> Dec 2024 - Current</p>
   </div>
   <ul>
     <li>Executed planograms and optimized product placement based on store analytics.</li>
@@ -47,13 +47,13 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
   </span>
   <div class='project-heading'>
   <div class='desc'> 
-    <p> <img class='icon-academic' src="https://s2.svgbox.net/hero-solid.svg?ic=academic-cap&color=6094af" width="32" height="32"> Academic Project</p> 
+    <p> <img class='icon-academic' src="https://s2.svgbox.net/hero-solid.svg?ic=academic-cap&color=6094af" width="20" height="20"> Academic Project</p> 
     <p>2025</p>
   </div>
   <p class='title'><b>Enterprise ETL Pipeline and Live PowerBI </b>
     
   <a href="https://github.com/NgocDuong17/SQL-BI-Dashboard-Project/blob/master/README.md" target="_blank"> 
-    <img class='icon-link' src="https://s2.svgbox.net/hero-solid.svg?ic=external-link&color=6094af" width="32" height="32"> 
+    <img class='icon-link' src="https://s2.svgbox.net/hero-solid.svg?ic=external-link&color=6094af" width="20" height="20"> 
   </a>
   </p>
   </div>
@@ -85,12 +85,12 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
     </span>
     <div class='project-heading'>
       <div class='desc'> 
-        <p> <img class='icon-personal' src="https://s2.svgbox.net/hero-solid.svg?ic=user&color=6094af" width="32" height="32"> Personal Project</p> 
+        <p> <img class='icon-personal' src="https://s2.svgbox.net/hero-solid.svg?ic=user&color=6094af" width="20" height="20"> Personal Project</p> 
         <p>2025</p>
       </div>
       <p class='title'><b>Pedestrian Patterns on Major Sydney Street</b>
         <a href="https://github.com/NgocDuong17/Pedestrian-Patterns-on-Major-Sydney-Streets/blob/main/README.md" target="_blank"> 
-          <img class='icon-link' src="https://s2.svgbox.net/hero-solid.svg?ic=external-link&color=6094af" width="32" height="32"> 
+          <img class='icon-link' src="https://s2.svgbox.net/hero-solid.svg?ic=external-link&color=6094af" width="20" height="20"> 
         </a>
       </p>
     </div>
@@ -120,12 +120,12 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
     </span>
     <div class='project-heading'>
       <div class='desc'> 
-        <p> <img class='icon-personal' src="https://s2.svgbox.net/hero-solid.svg?ic=user&color=6094af" width="32" height="32"> Personal Project</p> 
+        <p> <img class='icon-personal' src="https://s2.svgbox.net/hero-solid.svg?ic=user&color=6094af" width="20" height="20"> Personal Project</p> 
         <p>May 2025</p>
       </div>
       <p class='title'><b>Plant Co. YTD vs PYTD Performance Analysis</b>
         <a href="https://github.com/NgocDuong17/Plant-Co.-YTD-and-PYTD-Performance-Dashboards/blob/main/README.md" target="_blank"> 
-          <img class='icon-link' src="https://s2.svgbox.net/hero-solid.svg?ic=external-link&color=6094af" width="32" height="32"> 
+          <img class='icon-link' src="https://s2.svgbox.net/hero-solid.svg?ic=external-link&color=6094af" width="20" height="20"> 
         </a>
       </p>
     </div>
@@ -156,7 +156,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
     </span>
     <div class='project-heading'>
       <div class='desc'> 
-        <p> <img class='icon-academic' src="https://s2.svgbox.net/hero-solid.svg?ic=academic-cap&color=6094af" width="32" height="32"> Academic Project</p> 
+        <p> <img class='icon-academic' src="https://s2.svgbox.net/hero-solid.svg?ic=academic-cap&color=6094af" width="20" height="20"> Academic Project</p> 
         <p>2024</p>
       </div>
       <p class='title'><b>Compliance Insights & Incentive Analysis</b>
@@ -189,7 +189,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
     </span>
     <div class='project-heading'>
       <div class='desc'> 
-        <p> <img class='icon-academic' src="https://s2.svgbox.net/hero-solid.svg?ic=academic-cap&color=6094af" width="32" height="32"> Academic Project</p> 
+        <p> <img class='icon-academic' src="https://s2.svgbox.net/hero-solid.svg?ic=academic-cap&color=6094af" width="20" height="20"> Academic Project</p> 
         <p>2024</p>
       </div>
       <p class='title'><b>Online Fire Management System</b>
@@ -223,12 +223,12 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
     </span>
     <div class='project-heading'>
       <div class='desc'> 
-        <p> <img class='icon-academic' src="https://s2.svgbox.net/hero-solid.svg?ic=academic-cap&color=6094af" width="32" height="32"> Academic Project</p> 
+        <p> <img class='icon-academic' src="https://s2.svgbox.net/hero-solid.svg?ic=academic-cap&color=6094af" width="20" height="20"> Academic Project</p> 
         <p>Sep - Nov 2024</p>
       </div>
       <p class='title'><b>Wizer App - Educational Training Website</b>
         <a href="https://github.com/INFT6900-IT-Project/Wizer-app" target="_blank"> 
-          <img class='icon-link' src="https://s2.svgbox.net/hero-solid.svg?ic=external-link&color=6094af" width="32" height="32"> 
+          <img class='icon-link' src="https://s2.svgbox.net/hero-solid.svg?ic=external-link&color=6094af" width="20" height="20"> 
         </a>
       </p>
     </div>

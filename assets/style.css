@@ -11,7 +11,7 @@ body {
   background: #fce5e1;
   background: linear-gradient(90deg, rgba(252, 229, 225, 1) 0%, rgba(231, 255, 214, 1) 100%);
   margin-top: 20px;
-  padding: 10px;
+  padding: 20px;
 }
 .profile-column {
   float: left;
@@ -130,7 +130,7 @@ section {
 }
 /*--------------------------------------------------------- EXPERIENCE ---------------------------------------------------------------*/
 .exp-wrap{
-  margin-top: 20px;
+  margin-top: 40px;
 }
 
 .exp-box{
@@ -143,9 +143,7 @@ section {
   max-height: 700px; /*the preview*/
   position: relative;
   transition: max-height 0.3s ease;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-bottom: 15px
+  padding:25px;
   margin-top: 20px;
 }
 
@@ -288,7 +286,7 @@ section {
 /*--------------------------------------------------------- ICONNNNNNNNNNNNNNNNNNNN😿😆🦀 ---------------------------------------------------------------*/
 .icon-link, .icon-company, .icon-location, .icon-location, .icon-time, .icon-academic, .icon-personal{
   margin-bottom: -5px;
-  font-size: 1rem;
+  font-size: 0.5rem;
 }
 
 

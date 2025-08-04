@@ -52,7 +52,7 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
   <p class='title'><b>Enterprise ETL Pipeline and Live PowerBI </b>
     
   <a href="https://github.com/NgocDuong17/SQL-BI-Dashboard-Project/blob/master/README.md" target="_blank"> 
-  <img class='icon-link' src="https://s2.svgbox.net/hero-solid.svg?ic=external-link&color=6094af" width="32" height="32"> 
+    <img class='icon-link' src="https://s2.svgbox.net/hero-solid.svg?ic=external-link&color=6094af" width="32" height="32"> 
   </a>
   </p>
   </div>
@@ -88,7 +88,9 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
         <p>2025</p>
       </div>
       <p class='title'><b>Pedestrian Patterns on Major Sydney Street</b>
-        <a href="https://github.com/NgocDuong17/Pedestrian-Patterns-on-Major-Sydney-Streets/blob/main/README.md" target="_blank"> 🔗 </a>
+        <a href="https://github.com/NgocDuong17/Pedestrian-Patterns-on-Major-Sydney-Streets/blob/main/README.md" target="_blank"> 
+          <img class='icon-link' src="https://s2.svgbox.net/hero-solid.svg?ic=external-link&color=6094af" width="32" height="32"> 
+        </a>
       </p>
     </div>
   </div>
@@ -121,7 +123,9 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
         <p>May 2025</p>
       </div>
       <p class='title'><b>Plant Co. YTD vs PYTD Performance Analysis</b>
-        <a href="https://github.com/NgocDuong17/Plant-Co.-YTD-and-PYTD-Performance-Dashboards/blob/main/README.md" target="_blank"> 🔗 </a>
+        <a href="https://github.com/NgocDuong17/Plant-Co.-YTD-and-PYTD-Performance-Dashboards/blob/main/README.md" target="_blank"> 
+          <img class='icon-link' src="https://s2.svgbox.net/hero-solid.svg?ic=external-link&color=6094af" width="32" height="32"> 
+        </a>
       </p>
     </div>
   </div>
@@ -222,7 +226,9 @@ Detail-oriented Data Analyst/Business Analyst with expertise in data visualizati
         <p>Sep - Nov 2024</p>
       </div>
       <p class='title'><b>Wizer App - Educational Training Web Application</b>
-        <a href="https://github.com/INFT6900-IT-Project/Wizer-app" target="_blank"> 🔗 </a>
+        <a href="https://github.com/INFT6900-IT-Project/Wizer-app" target="_blank"> 
+          <img class='icon-link' src="https://s2.svgbox.net/hero-solid.svg?ic=external-link&color=6094af" width="32" height="32"> 
+        </a>
       </p>
     </div>
   </div>

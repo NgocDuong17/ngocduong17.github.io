@@ -146,7 +146,7 @@ section {
   margin: 20px;
 }
 
-.exp-description{
+.exp-side-info{
   display: flex;
   align-items: center; 
   justify-content: space-around;

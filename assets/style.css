@@ -10,10 +10,8 @@ body {
   background-repeat: no-repeat;*/
   background: #fce5e1;
   background: linear-gradient(90deg, rgba(252, 229, 225, 1) 0%, rgba(231, 255, 214, 1) 100%);
-  margin-top: 30px;
-  margin-right: 20px;
-  margin-left: 20px;
-  padding: 20px
+  margin-top: 20px;
+  padding: 10px;
 }
 .profile-column {
   float: left;

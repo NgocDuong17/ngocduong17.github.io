@@ -185,6 +185,7 @@ section {
   display: block;
   transform-origin: center; /* scale from center */
   transition: transform 0.3s ease-out;
+  border-radius: 8px;
 }
 
 .project-preview img:hover{

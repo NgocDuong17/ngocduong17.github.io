@@ -201,7 +201,7 @@ section {
 }
 .image-frame img {
   width: 100%;
-  height: 100%;
+  height: 50px;
   object-position: center;  /* show image center when cropped */
   display: block; 
   object-fit: cover;     /* scales image down & crops excess */

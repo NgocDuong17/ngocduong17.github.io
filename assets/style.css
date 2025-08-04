@@ -158,6 +158,8 @@ section {
   margin-top:-10px;
   width: 400px;  /* width and height of the card*/
   height: 600px;
+  display: flex;
+  flex: 1;
 }
 
 .exp-side-info{

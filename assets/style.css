@@ -175,7 +175,7 @@ section {
   line-height: 1.6;
   box-shadow: 0 2px 6px rgba(0,0,0,0.05);
   overflow: hidden;
-  max-height: 6em; /*the preview*/
+  max-height: 8em; /*the preview*/
   position: relative;
   transition: max-height 0.3s ease;
 }
@@ -187,13 +187,13 @@ section {
   font-size: 1.3em;
   color: #555;
   font-weight: 500;
-  padding-bottom: 20px;
+  padding-bottom: 10px;
 }
 
 .image-frame{
   overflow: hidden;
   width: 420px;
-  height: 50px;
+  height: 70px;
 }
 .image-frame img {
   width: 100%;
@@ -223,7 +223,6 @@ section {
 }
 
 .title{
-  margin-bottom: 10px;
   margin-top: -10px;
 }
 

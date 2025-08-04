@@ -144,9 +144,10 @@ section {
   position: relative;
   transition: max-height 0.3s ease;
   padding-top:15px;
-  padding-left: 15px;
-  padding-right:15px;
-  margin-top: 20px;
+  padding-left: 20px;
+  padding-right:20px;
+  margin-top: 10px;
+  margin-bottom: 20px;
 }
 
 .exp-side-info{

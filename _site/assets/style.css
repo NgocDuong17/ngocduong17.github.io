@@ -76,25 +76,25 @@ h3 {
 
 
   ul{
-  font-size: 0.8em;
+  font-size: 0.9em;
   }
 
   p{
-  font-size: 0.8em;
+  font-size: 0.9em;
   }
 
   h1 {
-  font-size: 1.8em;
+  font-size: 1.9em;
   padding-bottom: 0.3rem;
   }
 
   h2 {
-  font-size: 1.7em;
+  font-size: 1.8em;
   margin-top: 20px;
   }
 
   h3 {
-  font-size: 1.4em;
+  font-size: 1.5em;
   color: #555;
   }
 
@@ -155,7 +155,7 @@ main {
   width: 130px; 
   height: 100vh; /*full*/
   z-index: 1000;
-  background-color: rgba(107, 121, 108, 0.568);
+  background-color: rgba(202, 169, 162, 0.692);
   padding: 10px;
   display: flex;
   flex-direction: column;
@@ -318,7 +318,7 @@ main {
 
 .exp-side-info p{
   font-size: 13px;
-  color:#6094af;
+  color:#484d48;
 }
 
 .exp-side-info{
@@ -368,11 +368,11 @@ main {
   line-height: 1.6;
   box-shadow: 0 2px 6px rgba(0,0,0,0.05);
   overflow: hidden;
-  max-height: 14em;
+  max-height: 12.7em;
   position: relative;
   transition: max-height 0.3s ease;
   /* Important adjustments below */
-  width: 400px;           /* Controls size per card */
+  width: 420px;           /* Controls size per card */
   flex: 0 1 auto;          /* Prevents stretching */
   display: flex;
   flex-direction: column; /* For internal layout */
@@ -391,11 +391,11 @@ main {
 .image-frame{
   overflow: hidden;
   width: 650px;
-  height: 120px;
+  height: 100px;
 }
 .image-frame img {
   width: 120%;
-  height: 120px;
+  height: 100px;
   object-position: center;  /* show image center when cropped */
   display: block; 
   object-fit: cover;     /* scales image down & crops excess */
@@ -413,7 +413,7 @@ main {
 
 .desc{
   font-size: 12px;
-  color: #6094af;
+  color: #6e6e6e;
   font-weight: 400;
   display: flex;
   align-items: center; 
@@ -434,19 +434,19 @@ main {
   position: absolute;
   bottom: 10px;
   right: 20px;
-  background-color: #abcca2d5;
+  background-color: #8aaa83;
   color: white;
   border: none;
   padding: 2px 4px;
   font-size: 0.9em;
   cursor: pointer;
   user-select: none;
-  border-radius: 40px;
+  border-radius: 5px;
   transition: background-color 0.3s ease;
 }
 
 .toggle-btn:hover {
-  background-color: #6e8d67;
+  background-color: #abcca2d5;
 }
 
 .project-content{
@@ -457,39 +457,161 @@ main {
 /*--------------------------------------------------------- EDUCATION ---------------------------------------------------------------*/
 
 .education-box h2{
-  font-size: 25px;
+  font-size: 20px;
   margin-bottom: -5px;
+  
+}
+
+.education-box p{
+  font-size: 15px;
+}
+
+.education-box{
+  background-color: white;
+  padding: 15px 20px;
+  margin-bottom: 25px;
+  border-radius: 10px;
 }
 
 .education-content{
   margin-bottom: 40px;
 }
 
+.course-btn{
+  display: inline-block;
+  font-size: 12px;
+  padding: 10px;
+  border: 2px solid #7498ad;
+  color: #7498ad;
+  font-weight: 500;
+  gap:10px;
+  border-radius: 10px;
+  margin: 4px 8px 4px 0;
+  cursor: pointer;
+}
 /*--------------------------------------------------------- ACHIEVEMENT ---------------------------------------------------------------*/
 
 .achievement{
   margin-bottom: 10px;
 }
 
-.achievement a{
+.achieve-title a{
+  color: #464545;
   margin-left: 5px;
 }
 
-.achieve-title{
-  
+.achievement:hover{
+  color: #7498ad;
+  transform-origin: left; /* scale from center */
+  transition: transform 0.1s ease-out;
+  transform: scale(1.001);
+
+}
+.achievement:hover .achieve-title a{
+  color: #7498ad;
+
 }
 
 .achieve-content{
   margin: 1em 0;
   padding: 15px;
   padding-right: 5px;
-  border-left: 4px solid #B4D9AB; /* Your soft green border */
+  border-left: 4px solid #7498adb0; /* Your soft green border */
   color: #575757; 
-  font-style: italic;
   background-color: white; 
+  border-radius: 8px;
   
 }
 
+/*--------------------------------------------------------- FOOTER ---------------------------------------------------------------*/
+
+.footer-wrap{
+  margin-top: -50px;
+  margin-left: 120px;
+  padding: 20px;
+
+}
+
+.footer-wrap p {
+  margin: 5px 0;
+  font-size: 14px;
+}
+
+.footer-wrap a {
+  color: #ddd;
+  text-decoration: none;
+}
+
+.footer-wrap a:hover {
+  text-decoration: underline;
+  color: #fff;
+}
+
+/* Email subscription styles */
+
+.email-subscription h3 {
+  margin-bottom: 10px;
+  font-size: 30px;
+  color: #82ad7c;
+}
+
+.email-subscription input,
+.email-subscription textarea {
+  width: 70%;
+  padding: 12px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  font-size: 14px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.email-subscription textarea {
+  height:90px;
+}
+
+.email-subscription button {
+  background-color: #82ad7cef;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s ease;
+}
+
+.email-subscription button:hover {
+  background-color: #9fc79aef;
+}
+
+.footer-side{
+  margin-top: 30px;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .footer-wrap {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+.cv-download button {
+  background-color: #82ad7c;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-top: 10px;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 6px;
+  transition: background-color 0.3s ease;
+}
+
+.cv-download button:hover {
+  background-color: #9aca94;
+}
 /*--------------------------------------------------------- ICONNNNNNNNNNNNNNNNNNNN😿😆🦀 ---------------------------------------------------------------*/
 .icon-link, .icon-location{
   margin-bottom: -2px;
@@ -519,8 +641,14 @@ main {
   margin-bottom: -5px;
 }
 
-.icon-uni{
+.icon-uni, .icon-degree{
   margin-bottom: -2px;
+  width:20px;
+  height:20px;
+}
+
+.icon-download{
+  margin-bottom: -4px;
   width:20px;
   height:20px;
 }

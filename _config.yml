@@ -4,6 +4,7 @@ theme: jekyll-theme-minimal
 title: 
 logo: /assets/adoria-profile.jpg
 description: Master's Student in IT | Business Analytics | Data Science
+url: https://ngocduong17.github.io 
 show_downloads: false
 markdown: kramdown
 plugins:

@@ -3,16 +3,16 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.7;
   color: #2b2b2b;
-  /*background-image: url('/assets/adoria-background.png');
-  background-size: cover;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;*/
   background: #fce5e1;
   background: linear-gradient(90deg, rgba(252, 229, 225, 1) 0%, rgba(231, 255, 214, 1) 100%);
   margin-top: 20px;
   padding: 50px;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
 .profile-column {
   float: left;
   width: 30%;
@@ -34,23 +34,22 @@ body {
   .profile-column, .content-column {
     width: 100%;
     float: none;
+
   }
 }
+
 header h1 {
   display: none;
 }
 /* === Header === */
 h1, h2, h3 {
-  margin-top: 2rem;
+  margin-top: 1rem;
 }
 
-/*h1 {
-  font-size: 2.5em;
-  color:#BA6323;
-  border-bottom: 3px solid #A8D38D;
-  padding-bottom: 0.3rem;
+h1 {
+  font-size: 27px;
 }
-*/
+
 
 h2 {
   font-size: 1.8em;
@@ -58,11 +57,46 @@ h2 {
 }
 
 h3 {
-  font-size: 1.4em;
+  font-size: 1.5em;
   color: #555;
 }
 
 
+
+@media (max-width: 768px) {
+  .heading-wrap {
+    flex-direction: column;
+  }
+
+  .heading-profile, .heading{
+    flex-basis: 100%;
+    align-items: center;
+  }
+
+  ul{
+  font-size: 0.8em;
+  }
+
+  p{
+  font-size: 0.8em;
+  }
+
+  h1 {
+  font-size: 1.8em;
+  padding-bottom: 0.3rem;
+  }
+
+  h2 {
+  font-size: 1.7em;
+  margin-top: 20px;
+  }
+
+  h3 {
+  font-size: 1.4em;
+  color: #555;
+  }
+
+}
 /* === Links and Icons === */
 a {
   color: #73966B;
@@ -106,6 +140,60 @@ section {
   color: #333;
 }
 
+main {
+  margin-left: 150px; /* Same width as sidebar */
+  padding: 20px;
+}
+
+/*--------------------------------------------------------- NAV BAR ---------------------------------------------------------------*/
+.navbar-wrap{
+  position: fixed;    /* Fix it to the viewport */
+  top: 0;             /* Align to top */
+  left: 0;
+  width: 130px; 
+  height: 100vh; /*full*/
+  z-index: 1000;
+  background-color: rgba(107, 121, 108, 0.568);
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  
+}
+
+.navbar-wrap a {
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  font-size: 18px;
+  position: relative;  /* needed for ::before */
+  font-weight: 500;
+  align-content: center;
+  padding-top: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-left: none;   /* remove the border-left here */
+}
+
+.navbar-wrap a::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 50%;             /* where line starts */
+  height: 50%;          /* control height */
+  width: 1.5px;         /* thickness */
+  background-color: transparent; /* default transparent */
+  transition: background-color 0.2s ease;
+}
+
+.navbar-wrap a:hover {
+  transform: scale(1.09);
+}
+
+.navbar-wrap a:hover::before {
+  background-color: rgba(238, 238, 238, 0.945);
+}
+
+
 /*--------------------------------------------------------- HEADING/HIGHTLIGHT ---------------------------------------------------------------*/
 
 .heading-wrap{
@@ -115,16 +203,11 @@ section {
 
 .heading-profile{
   flex-basis: 40%;
-  padding-left: 40px;
-  padding-top: 30px;
-  padding-right: 0px;
 }
 
 .heading{
   flex-basis: 60%;
-  padding-top:20px;
   padding-left: -20px;
-  padding-right:120px
 }
 
 .heading h1{
@@ -160,22 +243,22 @@ section {
 }
 /*--------------------------------------------------------- EXPERIENCE ---------------------------------------------------------------*/
 .exp-wrap{
-  margin-top: 40px;
+  margin-top: 20px;
   position: relative;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  gap: 40px;
   align-items: stretch;
+  gap:20px;
 }
 
 .exp-box{
 
   background: #f8f9fa;
-  border-radius: 10px;
+  border-radius: 12px;
   color: #333;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
-  width: 500px;
+  width: 420px;
   display: flex;
   flex-direction: column;
   padding: 15px 20px 0 20px;
@@ -184,12 +267,18 @@ section {
   transition: max-height 0.3s ease;
 }
 
-.exp-side-info ul Cli{
-  font-size: 200px;
+.exp-box h2{
+  margin-top: -2px;
+  font-size: 25px;
+}
+
+.exp-box ul{
+  font-size: 14px;
 }
 
 .exp-side-info p{
-  font-size: 0.8rem;
+  font-size: 13px;
+  color:#6094af;
 }
 
 .exp-side-info{
@@ -197,7 +286,8 @@ section {
   align-items: center; 
   justify-content: space-between;
   color: gray;
-  margin-top: -20px
+  margin-top: -25px;
+  padding: 0px 3px;
 }
 
 /*--------------------------------------------------------- PROJECT ---------------------------------------------------------------*/
@@ -208,7 +298,7 @@ section {
   background-color: #FFFFFF;  
   color: #73966B;
   text-decoration: none;
-  border: 2px solid #5D7857;
+  border: 2px solid #6b8d64;
   border-radius: 10px;
   font-size: 0.85em;
   font-weight: 600;
@@ -230,7 +320,7 @@ section {
 
 
 .project-wrap {
-  background: #f8f9fa;
+  background: #ffffff;
   /*padding: 16px 20px;*/
   margin: 10px;
   border-radius: 14px;
@@ -241,15 +331,15 @@ section {
   max-height: 14em;
   position: relative;
   transition: max-height 0.3s ease;
-
   /* Important adjustments below */
-  width: 500px;           /* Controls size per card */
+  width: 400px;           /* Controls size per card */
   flex: 0 1 auto;          /* Prevents stretching */
   display: flex;
   flex-direction: column; /* For internal layout */
 }
 .project-wrap.expanded {
   max-height: 1000px; /* big enough for full content */
+  max-width: 800px;
 }
 
 .project-preview{
@@ -260,11 +350,11 @@ section {
 
 .image-frame{
   overflow: hidden;
-  width: 600px;
+  width: 650px;
   height: 120px;
 }
 .image-frame img {
-  width: 100%;
+  width: 120%;
   height: 120px;
   object-position: center;  /* show image center when cropped */
   display: block; 
@@ -282,8 +372,8 @@ section {
 }
 
 .desc{
-  font-size: 0.6em;
-  color: gray;
+  font-size: 12px;
+  color: #6094af;
   font-weight: 400;
   display: flex;
   align-items: center; 
@@ -296,6 +386,7 @@ section {
   margin-top:-10px;
   padding-left:20px;
   padding-right:20px;
+  font-size: 18px;
 }
 
 
@@ -306,23 +397,34 @@ section {
   background-color: #abcca2d5;
   color: white;
   border: none;
-  border-radius: 8px;
-  padding: 4px 8px;
+  padding: 2px 4px;
   font-size: 0.9em;
   cursor: pointer;
   user-select: none;
-  border-radius: 20px;
+  border-radius: 40px;
   transition: background-color 0.3s ease;
 }
 
 .toggle-btn:hover {
-  background-color: #B4D9AB;
+  background-color: #6e8d67;
 }
 
 .project-content{
   padding: 0px 20px 16px;
 
 }
+
+/*--------------------------------------------------------- EDUCATION ---------------------------------------------------------------*/
+
+.education-box h2{
+  font-size: 25px;
+  margin-bottom: -5px;
+}
+
+.education-content{
+  margin-bottom: 40px;
+}
+
 /*--------------------------------------------------------- ACHIEVEMENT ---------------------------------------------------------------*/
 
 .achievement{
@@ -371,4 +473,14 @@ section {
   width:15px;
   height:15px;
   margin-bottom: -1px;
+}
+
+.icon-highlight{
+  margin-bottom: -5px;
+}
+
+.icon-uni{
+  margin-bottom: -2px;
+  width:20px;
+  height:20px;
 }

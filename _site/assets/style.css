@@ -652,3 +652,8 @@ main {
   width:20px;
   height:20px;
 }
+
+site-logo{
+  height: 40px;    /* Increase size here */
+  width: auto; 
+}

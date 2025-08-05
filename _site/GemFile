@@ -1,0 +1,13 @@
+source "https://rubygems.org"
+
+gem "jekyll"
+gem "bundler"
+gem "webrick"                # Needed for Ruby 3+
+gem "jekyll-remote-theme"    # For GitHub Pages themes
+gem "jekyll-sitemap"         # For SEO sitemaps
+gem "jekyll-feed"            # For RSS feed
+gem "jekyll-seo-tag"         # For SEO metadata
+gem "jekyll-theme-minimal"   # Default theme (optional)
+gem "jekyll-gist"
+gem "jekyll-paginate"
+gem "jekyll-include-cache"

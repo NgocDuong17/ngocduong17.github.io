@@ -147,6 +147,13 @@ main {
   padding: 20px;
 }
 
+.guide{
+  color: gray;
+  font-style: italic;
+}
+
+
+
 /*--------------------------------------------------------- NAV BAR ---------------------------------------------------------------*/
 .navbar-wrap{
   position: fixed;    /* Fix it to the viewport */
@@ -490,6 +497,7 @@ main {
   cursor: pointer;
 }
 /*--------------------------------------------------------- ACHIEVEMENT ---------------------------------------------------------------*/
+
 
 .achievement{
   margin-bottom: 10px;

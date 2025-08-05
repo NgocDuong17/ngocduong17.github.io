@@ -605,6 +605,10 @@ main {
   }
 }
 
+.cv-download{
+  padding-bottom: 15px;
+}
+
 .cv-download button {
   background-color: #82ad7c;
   color: white;
@@ -661,7 +665,28 @@ main {
   height:20px;
 }
 
-site-logo{
-  height: 40px;    /* Increase size here */
-  width: auto; 
+.icon-linkedin{
+  margin-bottom: -2px;
+  width:20px;
+  height:20px;
+}
+
+.icon-email{
+  margin-bottom: -4px;
+  width:22px;
+  height:22px;
+}
+
+
+.contact-links{
+  padding: 15px 0px;
+}
+
+.contact-links a{
+  color: rgb(54, 54, 54);
+}
+
+.contact-links a:hover{
+  color: rgb(104, 140, 194);
+  text-decoration: none;
 }

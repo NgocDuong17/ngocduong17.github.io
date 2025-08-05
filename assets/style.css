@@ -15,12 +15,12 @@ body {
 }
 .profile-column {
   float: left;
-  width: 10%;
+  width: 30%;
 }
 
 .content-column {
   float: left;
-  width: 90%;
+  width: 70%;
 }
 
 .page-wrapper::after {
@@ -112,18 +112,19 @@ section {
   display: flex;
 }
 
-.heading, .heading-profile{
-  flex-basis: 50%;
-}
+
 .heading-profile{
-  padding: 60px;
+  flex-basis: 40%;
   padding-left: 40px;
+  padding-top: 30px;
+  padding-right: 0px;
 }
 
 .heading{
-  padding-top:30px;
-  padding-left: 20px;
-  padding-right:50px
+  flex-basis: 60%;
+  padding-top:20px;
+  padding-left: -20px;
+  padding-right:120px
 }
 
 .heading h1{
@@ -160,6 +161,7 @@ section {
   justify-content: center;
   flex-wrap: wrap;
   gap: 40px;
+  align-items: stretch;
 }
 
 .exp-box{
@@ -169,8 +171,8 @@ section {
   color: #333;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
   
-  width: 440px;
-  height: 470px;
+  width: 500px;
+ 
 
   display: flex;
   flex-direction: column;
@@ -181,12 +183,20 @@ section {
   transition: max-height 0.3s ease;
 }
 
+.exp-side-info li{
+  font-size: 0.7rem;
+}
+
+.exp-side-info p{
+  font-size: 0.8rem;
+}
 
 .exp-side-info{
   display: flex;
   align-items: center; 
   justify-content: space-between;
   color: gray;
+  margin-top: -20px
 }
 
 /*--------------------------------------------------------- PROJECT ---------------------------------------------------------------*/
@@ -249,7 +259,7 @@ section {
 
 .image-frame{
   overflow: hidden;
-  width: 400px;
+  width: 600px;
   height: 120px;
 }
 .image-frame img {
@@ -260,7 +270,7 @@ section {
   object-fit: cover;     /* scales image down & crops excess */
   transform-origin: center; /* scale from center */
   transition: transform 0.2s ease-out;
-  /*border: 1px solid #5c5d5e;*/
+  border-bottom: 1px solid #8d8d8d;
 }
 
 .image-frame img:hover{
@@ -271,18 +281,21 @@ section {
 }
 
 .desc{
-  font-size: 0.8em;
+  font-size: 0.6em;
   color: gray;
   font-weight: 400;
   display: flex;
   align-items: center; 
   justify-content: space-between;
-  padding: 16px 20px;
+  padding: 0px 20px;
+  margin-top:-10px;
 }
 
 .title{
-  margin-top: -10px;
-  padding: 16px 20px;
+  margin-top:-10px;
+  padding-bottom: 16px;
+  padding-left:20px;
+  padding-right:20px;
 }
 
 
@@ -335,9 +348,19 @@ section {
 }
 
 /*--------------------------------------------------------- ICONNNNNNNNNNNNNNNNNNNN😿😆🦀 ---------------------------------------------------------------*/
-.icon-link, .icon-company, .icon-location, .icon-location, .icon-time, .icon-academic, .icon-personal{
+.icon-link, .icon-location, .icon-personal{
   margin-bottom: -2px;
 }
 
+.icon-time{
+  margin-bottom:-3px;
+  width:18px;
+  height:18px;
+}
 
+.icon-academic, .icon-company{
+  margin-bottom: -2px;
+  width:15px;
+  height:15px;
+}
 

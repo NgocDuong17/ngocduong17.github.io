@@ -1,6 +1,6 @@
 /* === Base Typography === */
 body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: Poppins, sans-serif;
   line-height: 1.7;
   color: #2b2b2b;
   background: #fce5e1;
@@ -88,6 +88,10 @@ h3 {
   }
   .credential a{
     font-size: 0.7em;
+  }
+
+  .project-wrap {
+    max-height: 12.3em;
   }
 
   ul{
@@ -338,6 +342,7 @@ main {
 .exp-box h2{
   margin-top: -2px;
   font-size: 25px;
+  font-weight: 700;
 }
 
 .exp-box ul{
@@ -396,7 +401,7 @@ main {
   line-height: 1.6;
   box-shadow: 0 2px 6px rgba(0,0,0,0.05);
   overflow: hidden;
-  max-height: 12.7em;
+  max-height: 14.7em;
   position: relative;
   transition: max-height 0.3s ease;
   /* Important adjustments below */
@@ -419,11 +424,11 @@ main {
 .image-frame{
   overflow: hidden;
   width: 650px;
-  height: 100px;
+  height: 130px;
 }
 .image-frame img {
   width: 120%;
-  height: 100px;
+  height: 130px;
   object-position: center;  /* show image center when cropped */
   display: block; 
   object-fit: cover;     /* scales image down & crops excess */
@@ -451,10 +456,11 @@ main {
 }
 
 .title{
-  margin-top:-10px;
+  margin-top:-5px;
   padding-left:20px;
   padding-right:20px;
-  font-size: 18px;
+  font-size: 20px;
+  line-height: 1.3;
 }
 
 
@@ -462,7 +468,7 @@ main {
   position: absolute;
   bottom: 10px;
   right: 20px;
-  background-color: #8aaa83;
+  background-color:#abcca2d5;
   color: white;
   border: none;
   padding: 2px 4px;
@@ -474,7 +480,7 @@ main {
 }
 
 .toggle-btn:hover {
-  background-color: #abcca2d5;
+  background-color: #8aaa83 ;
 }
 
 .project-content{
@@ -511,7 +517,7 @@ main {
   padding: 10px;
   border: 2px solid #7498ad;
   color: #7498ad;
-  font-weight: 500;
+  font-weight: 600;
   gap:10px;
   border-radius: 10px;
   margin: 4px 8px 4px 0;
@@ -527,7 +533,7 @@ main {
 
 .achievement{
   margin-bottom: 25px;
-  font-weight: 500;
+  font-weight: 600;
   color: #464545;
 }
 
@@ -537,7 +543,7 @@ main {
 
 .achievement:hover .achieve-title{
   color: rgb(105, 157, 182);
-  transform-origin: left; /* scale from center */
+  cursor: pointer;
 
 }
 .achievement:hover .credential{
@@ -547,6 +553,7 @@ main {
 
 .achieve-content{
   margin: 1em 0;
+  font-weight: 500;
   padding: 15px;
   padding-right: 5px;
   border-left: 4px solid #7498adb0; /* Your soft green border */
@@ -570,11 +577,12 @@ main {
 
 
 .credential:hover{
-  border: 2px solid gray;
-  color: rgb(91, 124, 173);
-  padding: 6px;
-  border-radius: 20px;
+  border: 1.97px solid rgb(48, 47, 47);
+  
 }
+
+
+
 /*--------------------------------------------------------- FOOTER ---------------------------------------------------------------*/
 
 .footer-wrap{
@@ -692,8 +700,15 @@ main {
   height:18px;
 }
 
-.icon-academic, .icon-company{
+.icon-company{
   margin-bottom: -2px;
+  width:15px;
+  height:15px;
+}
+
+.icon-academic {
+  margin-bottom: -2px;
+  margin-right: 3px;
   width:15px;
   height:15px;
 }
@@ -702,6 +717,7 @@ main {
   width:15px;
   height:15px;
   margin-bottom: -1px;
+  margin-right: 3px;
 }
 
 .icon-highlight{

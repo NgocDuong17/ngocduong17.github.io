@@ -149,7 +149,6 @@ main {
 
 .guide{
   color: gray;
-  font-style: italic;
 }
 
 
@@ -500,23 +499,22 @@ main {
 
 
 .achievement{
-  margin-bottom: 10px;
-}
-
-.achieve-title a{
+  margin-bottom: 25px;
+  font-weight: 500;
   color: #464545;
-  margin-left: 5px;
 }
 
-.achievement:hover{
+.achieve-title{
+  color: #464545;
+}
+
+.achievement:hover .achieve-title{
   color: rgb(91, 124, 173);
   transform-origin: left; /* scale from center */
-  transition: transform 0.1s ease-out;
-  transform: scale(1.001);
 
 }
-.achievement:hover .achieve-title a{
-  color: rgb(91, 124, 173);
+.achievement:hover .credential{
+  color: rgb(57, 58, 58);
 
 }
 
@@ -529,6 +527,26 @@ main {
   background-color: white; 
   border-radius: 8px;
   
+}
+
+.credential{
+  border-radius: 20px;
+  border: 1.5px solid gray;
+  padding: 7px;
+  font-size: 13px;
+  margin-left: 10px;
+}
+
+.credential a{
+  color: #464545;
+}
+
+
+.credential:hover{
+  border: 2px solid gray;
+  color: rgb(91, 124, 173);
+  padding: 6px;
+  border-radius: 20px;
 }
 
 /*--------------------------------------------------------- FOOTER ---------------------------------------------------------------*/
@@ -625,7 +643,13 @@ main {
   background-color: #9aca94;
 }
 /*--------------------------------------------------------- ICONNNNNNNNNNNNNNNNNNNN😿😆🦀 ---------------------------------------------------------------*/
-.icon-link, .icon-location{
+.icon-link{
+  margin-bottom: -4px;
+  width:18px;
+  height:18px;
+}
+
+.icon-location{
   margin-bottom: -2px;
   width:18px;
   height:18px;

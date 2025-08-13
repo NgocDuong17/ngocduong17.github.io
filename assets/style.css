@@ -164,6 +164,8 @@ main {
 
 .guide{
   color: gray;
+  margin-top: -20px;
+  margin-bottom: 40px;
 }
 
 
@@ -534,7 +536,7 @@ main {
 }
 
 .achievement:hover .achieve-title{
-  color: rgb(91, 124, 173);
+  color: rgb(105, 157, 182);
   transform-origin: left; /* scale from center */
 
 }

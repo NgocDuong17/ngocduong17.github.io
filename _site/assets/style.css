@@ -9,6 +9,7 @@ body {
   padding: 50px;
 }
 
+
 html {
   scroll-behavior: smooth;
 }
@@ -572,7 +573,6 @@ main {
   padding: 6px;
   border-radius: 20px;
 }
-
 /*--------------------------------------------------------- FOOTER ---------------------------------------------------------------*/
 
 .footer-wrap{

@@ -195,9 +195,10 @@ main {
   position: relative;  /* needed for ::before */
   font-weight: 600;
   align-content: center;
-  padding-top: 30px;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding: 15px 10px;
+  display: block;
+  width: 100%;                   /* match navbar width */
+  box-sizing: border-box;
   border-left: none;   /* remove the border-left here */
 }
 
@@ -205,17 +206,15 @@ main {
   content: "";
   position: absolute;
   left: 0;
-  top: 50%;             /* where line starts */
-  height: 50%;          /* control height */
+  top: 0%;             /* where line starts */
+  height: 100%;          /* control height */
   width: 1.5px;         /* thickness */
   background-color: transparent; /* default transparent */
-  transition: background-color 0.2s ease;
 }
 
 .navbar-wrap a:hover {
-  transform: scale(1.09);
-  background-color: pink;
-  
+  padding-left: 17px;
+  background-color: rgba(226, 203, 199, 0.651);
 }
 
 .navbar-wrap a:hover::before {
@@ -239,6 +238,7 @@ main {
   }
 
   .icon-highlight {
+    margin-left: 5px;
     width: 24px;
     height: 24px;
   }
@@ -248,12 +248,18 @@ main {
   .navbar-wrap a::after {
     content: "";
     position: absolute;
-    left: 0;
+    left: 10%;
     bottom: 5px;
-    width: 100%;
+    width: 80%;
     height: 1.5px;
     background-color: transparent;
     transition: background-color 0.3s;
+  }
+
+  .navbar-wrap a:hover {
+  background-color: rgba(226, 203, 199, 0);
+  transform: scale(1.09);
+  padding-left: auto;
   }
 
   .navbar-wrap a:hover::after {
@@ -520,10 +526,10 @@ main {
   color: #7498ad;
   font-weight: 600;
   gap:10px;
-  border-radius: 10px;
+  border-radius: 20px;
   margin: 4px 8px 4px 0;
   cursor: pointer;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  box-shadow: 0 2px 6px rgba(97, 94, 94, 0.158);
 }
 /*--------------------------------------------------------- ACHIEVEMENT ---------------------------------------------------------------*/
 
@@ -582,7 +588,6 @@ main {
   border: 1.97px solid rgb(48, 47, 47);
   
 }
-
 
 
 /*--------------------------------------------------------- FOOTER ---------------------------------------------------------------*/
@@ -729,6 +734,7 @@ main {
 
 .icon-highlight{
   margin-bottom: -5px;
+  margin-left: 20%;
 }
 
 .icon-uni, .icon-degree{

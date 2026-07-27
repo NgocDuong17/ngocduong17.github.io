@@ -324,7 +324,64 @@ main {
   background-color: #E8C7BC; 
 }
 /*--------------------------------------------------------- EXPERIENCE ---------------------------------------------------------------*/
-.exp-wrap{
+.exp-biggest-wrap{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap:20px
+}
+
+
+
+.exp-wrap {
+  background: #ffffff;
+  position: relative;
+  padding: 5px 20px;
+  margin: 10px;
+  border-radius: 14px;
+  color: #333;
+  line-height: 1.6;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  overflow: hidden;
+  max-height: 8em;
+  position: relative;
+  transition: max-height 0.3s ease;
+  /* Important adjustments below */
+  width: 40em;          /* Controls size per card */
+  flex: 0 1 auto;          /* Prevents stretching */
+  display: flex;
+  flex-direction: column; /* For internal layout */
+}
+
+
+.exp-wrap.expanded {
+  max-height: 100em; /* big enough for full content */
+}
+
+.toggle-btn-exp {
+  position: absolute;
+  bottom: 15px;
+  right: 15px;
+  background-color:#abcca2d5;
+  color: white;
+  border: none;
+  padding: 2px 4px;
+  font-size: 0.9em;
+  cursor: pointer;
+  user-select: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.055);
+}
+
+.list-holder{
+  margin-top: 13px;
+  padding-bottom: 20px;
+  font-size: 0.9em;
+}
+
+/*.exp-wrap{
   margin-top: 20px;
   position: relative;
   display: flex;
@@ -332,13 +389,13 @@ main {
   flex-wrap: wrap;
   align-items: stretch;
   gap:20px;
-}
+}*/
 
 .exp-box{
 
-  background: #f8f9fa;
+  background: #ffffff;
   border-radius: 12px;
-  border: 1.5px dashed rgba(188, 219, 174, 0.767);
+  
   color: #333;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.062);
   width: 420px;
@@ -371,7 +428,7 @@ main {
   justify-content: space-between;
   color: gray;
   margin-top: -25px;
-  padding: 0px 3px;
+  
 }
 
 /*--------------------------------------------------------- PROJECT ---------------------------------------------------------------*/
@@ -491,6 +548,7 @@ main {
   transition: background-color 0.3s ease;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.055);
 }
+
 
 .toggle-btn:hover {
   background-color: #8aaa83 ;
